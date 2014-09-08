@@ -1,0 +1,7 @@
+#!org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis
+clone.minlength=6
+input.project=icse15-java-gapped
+input.dir=/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamJAVA/9/src
+errors.max=3
+output.dir=/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-results/conqat/Java/9
+gap.ratio=0.3

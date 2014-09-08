@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cloneReport xmlns="http://conqat.cs.tum.edu/ns/clonereport" systemdate="2014.09.02 12:18:06:217+0200">
+  <sourceFile id="0" path="icse15-c-gapped/001.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/001.c" length="75" fingerprint="50600748F546D82DB8D5809DD8F5886C" />
+  <sourceFile id="1" path="icse15-c-gapped/002.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/002.c" length="65" fingerprint="57980B51B5A7813D5B47490C1288E7F0" />
+  <sourceFile id="2" path="icse15-c-gapped/003.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/003.c" length="80" fingerprint="38FB2918DDC1B87773E2DC9722EFE993" />
+  <sourceFile id="3" path="icse15-c-gapped/004.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/004.c" length="40" fingerprint="6BC829A72C1BE5E192A2819506088EBB" />
+  <sourceFile id="4" path="icse15-c-gapped/005.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/005.c" length="35" fingerprint="EB5B6C4F016ADC1B36086C6A7B005EF2" />
+  <sourceFile id="5" path="icse15-c-gapped/006.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/006.c" length="77" fingerprint="1CC1E4E8F62DD71BAD56E7A3DC88AB3F" />
+  <sourceFile id="6" path="icse15-c-gapped/007.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/007.c" length="54" fingerprint="CFF0E1D5CFE0E4747530056412E82CA3" />
+  <sourceFile id="7" path="icse15-c-gapped/008.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/008.c" length="53" fingerprint="BC461C06AB5F4A43B92A18A882EC23DF" />
+  <sourceFile id="8" path="icse15-c-gapped/009.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/009.c" length="73" fingerprint="410143D4943617108D2BC563B14876CF" />
+  <sourceFile id="9" path="icse15-c-gapped/010.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/010.c" length="39" fingerprint="E490E6322E9E6A0294FC1402D0B690AF" />
+  <sourceFile id="10" path="icse15-c-gapped/011.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/011.c" length="29" fingerprint="C8FC7FAB55C48B70656F1AA38282AD23" />
+  <sourceFile id="11" path="icse15-c-gapped/012.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/012.c" length="57" fingerprint="99C8EBF938E7BF3AE8289682A9DE3055" />
+  <sourceFile id="12" path="icse15-c-gapped/013.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/013.c" length="42" fingerprint="26BC04D9573E50B23BBA60526AF7CDC4" />
+  <sourceFile id="13" path="icse15-c-gapped/014.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/014.c" length="31" fingerprint="47B7E5334B0974B59706FB5FF3992CC9" />
+  <sourceFile id="14" path="icse15-c-gapped/015.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/015.c" length="56" fingerprint="A60E68D8BE3F93CC16966B2A367ED14E" />
+  <sourceFile id="15" path="icse15-c-gapped/016.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/016.c" length="52" fingerprint="F5C7658F9542EFF634DBAEB9612C6BC8" />
+  <sourceFile id="16" path="icse15-c-gapped/017.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/017.c" length="27" fingerprint="150E75AFD8E0A282C71A1EF6CA8C8A1B" />
+  <sourceFile id="17" path="icse15-c-gapped/018.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/018.c" length="68" fingerprint="202B64F93E5A3A8AD03CEE21113E95A1" />
+  <sourceFile id="18" path="icse15-c-gapped/019.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/019.c" length="46" fingerprint="7C574A8AA945376AFDC7B4ACC32157D6" />
+  <sourceFile id="19" path="icse15-c-gapped/020.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/020.c" length="78" fingerprint="5F78924BC805DA1FB7A3F4684D2E945A" />
+  <sourceFile id="20" path="icse15-c-gapped/021.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/021.c" length="50" fingerprint="62EE263A840F251EA0750AD2D52B75AC" />
+  <sourceFile id="21" path="icse15-c-gapped/022.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/022.c" length="66" fingerprint="E8F776D744CECCB1E35052C7D0198B6D" />
+  <sourceFile id="22" path="icse15-c-gapped/023.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/023.c" length="42" fingerprint="E04E16128A59337F3E9CF5F1B0B6228D" />
+  <sourceFile id="23" path="icse15-c-gapped/024.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/024.c" length="31" fingerprint="2F042577CBBAD592B556406E0913D99B" />
+  <sourceFile id="24" path="icse15-c-gapped/025.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/025.c" length="83" fingerprint="1A873DAAF5C34A4E3EFD359E698AF484" />
+  <sourceFile id="25" path="icse15-c-gapped/026.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/026.c" length="45" fingerprint="B290C14ECB15B7320299DF3CE1B1B4C8" />
+  <sourceFile id="26" path="icse15-c-gapped/027.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/027.c" length="49" fingerprint="D351531A152F45EC70F12F04622C51DD" />
+  <sourceFile id="27" path="icse15-c-gapped/028.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/028.c" length="53" fingerprint="F49490F47F0D2553E28213DF125DE854" />
+  <sourceFile id="28" path="icse15-c-gapped/029.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/029.c" length="46" fingerprint="D415728A650DFD444ECB73EAD4358D43" />
+  <sourceFile id="29" path="icse15-c-gapped/030.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/030.c" length="60" fingerprint="4FDCFCCD2274F5791DFFFDCEAD8A0469" />
+  <sourceFile id="30" path="icse15-c-gapped/031.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/031.c" length="57" fingerprint="7BE8C7B63E674302506FA26E1EBCE3F8" />
+  <sourceFile id="31" path="icse15-c-gapped/032.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/032.c" length="37" fingerprint="079006B794C1D131AF12E1A53E2DD4D1" />
+  <sourceFile id="32" path="icse15-c-gapped/033.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/033.c" length="42" fingerprint="C7B2582CBA378F55B7148F932FF26446" />
+  <sourceFile id="33" path="icse15-c-gapped/034.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/034.c" length="34" fingerprint="04078EA2937CC9A4DE5B091443F82B77" />
+  <sourceFile id="34" path="icse15-c-gapped/035.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/035.c" length="23" fingerprint="28FE1ABDD1C449AEC210602F91D5F5A5" />
+  <sourceFile id="35" path="icse15-c-gapped/036.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/036.c" length="37" fingerprint="0D9509CD4D3934EA20DEF2E906329265" />
+  <sourceFile id="36" path="icse15-c-gapped/037.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/037.c" length="35" fingerprint="B3E5A9D3A1F112163B98D584567BC096" />
+  <sourceFile id="37" path="icse15-c-gapped/038.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/038.c" length="34" fingerprint="BE02766C0674C8D6A893B68990FD63FE" />
+  <sourceFile id="38" path="icse15-c-gapped/039.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/039.c" length="115" fingerprint="A92CF9EB6004E3D1662E8BC66510D7D0" />
+  <sourceFile id="39" path="icse15-c-gapped/040.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/040.c" length="66" fingerprint="264151117A7001A2481EBAC6429F5C38" />
+  <sourceFile id="40" path="icse15-c-gapped/041.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/041.c" length="23" fingerprint="8D11806FC9520E0C7C267B5F6BD9E199" />
+  <sourceFile id="41" path="icse15-c-gapped/042.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/042.c" length="64" fingerprint="5451E46EEC5344F3BD990A871EE3CF3D" />
+  <sourceFile id="42" path="icse15-c-gapped/043.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/043.c" length="48" fingerprint="601439DA16426CC42FAFAF4A49AAB549" />
+  <sourceFile id="43" path="icse15-c-gapped/044.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/044.c" length="128" fingerprint="94E34877100844A94EEDCE0307AE4011" />
+  <sourceFile id="44" path="icse15-c-gapped/045.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/045.c" length="51" fingerprint="6151127F166F5BF014AED915E04550C6" />
+  <sourceFile id="45" path="icse15-c-gapped/046.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/046.c" length="44" fingerprint="17ADF06AA4E66D00E59C40C036270640" />
+  <sourceFile id="46" path="icse15-c-gapped/047.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/047.c" length="38" fingerprint="8C55CF5EB5506CCBE996C74BB02F859A" />
+  <sourceFile id="47" path="icse15-c-gapped/048.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/048.c" length="38" fingerprint="E331733B34ABF8E8ADF854EB850C38D6" />
+  <sourceFile id="48" path="icse15-c-gapped/049.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/049.c" length="56" fingerprint="EE42DED51CDAA62E662FF3EF13980446" />
+  <sourceFile id="49" path="icse15-c-gapped/050.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/050.c" length="64" fingerprint="A56C883D4059240C7B92BB6D75CC183C" />
+  <sourceFile id="50" path="icse15-c-gapped/051.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/051.c" length="28" fingerprint="67ECA9830000FCFDE81451451052CD3F" />
+  <sourceFile id="51" path="icse15-c-gapped/052.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/052.c" length="43" fingerprint="E3CF8DCDE047FA4459B5BB4BDC3FD537" />
+  <sourceFile id="52" path="icse15-c-gapped/053.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/053.c" length="59" fingerprint="3465ACF824A4F9C670947A4EC5DEC4D7" />
+  <sourceFile id="53" path="icse15-c-gapped/054.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/054.c" length="43" fingerprint="B5F93E66C162E37193F0DB1944F99321" />
+  <sourceFile id="54" path="icse15-c-gapped/055.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/055.c" length="48" fingerprint="BB36E6573E35703754AB5F7BC7FFECA6" />
+  <sourceFile id="55" path="icse15-c-gapped/056.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/056.c" length="65" fingerprint="C934D57CE722DCA6F3B4CD4F82B57860" />
+  <sourceFile id="56" path="icse15-c-gapped/057.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/057.c" length="31" fingerprint="24AD2335F06ABC606E6094E4EF637E56" />
+  <sourceFile id="57" path="icse15-c-gapped/058.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/058.c" length="69" fingerprint="A3D308FF18FF269A6F17FB7B966AD9B1" />
+  <sourceFile id="58" path="icse15-c-gapped/059.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/059.c" length="25" fingerprint="860D7C61258066F7653F8358D223CEDB" />
+  <sourceFile id="59" path="icse15-c-gapped/060.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/060.c" length="70" fingerprint="9AD9B1E83BF5AC8D2668458DD2DB5747" />
+  <sourceFile id="60" path="icse15-c-gapped/061.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/061.c" length="43" fingerprint="F5D64E204316B26CDDE8CF417BC260BF" />
+  <sourceFile id="61" path="icse15-c-gapped/062.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/062.c" length="124" fingerprint="067D262BC316B91F0666332E9A7B468F" />
+  <sourceFile id="62" path="icse15-c-gapped/063.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/063.c" length="37" fingerprint="07C3F89D9308B725BF3463495CF8C659" />
+  <sourceFile id="63" path="icse15-c-gapped/064.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/064.c" length="43" fingerprint="1C7111E73D4A85B333DE3B745ADE7750" />
+  <sourceFile id="64" path="icse15-c-gapped/065.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/065.c" length="38" fingerprint="C6A5D890A56117D28EC960C867F81E74" />
+  <sourceFile id="65" path="icse15-c-gapped/066.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/066.c" length="31" fingerprint="B38B48F7D9A7B607C472ADB7A653973A" />
+  <sourceFile id="66" path="icse15-c-gapped/067.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/067.c" length="84" fingerprint="F2A9AB76F46F84E4F8602AD9B126C919" />
+  <sourceFile id="67" path="icse15-c-gapped/068.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/068.c" length="31" fingerprint="5846AB71B8C0CE8F17F9F84CC069EFBC" />
+  <sourceFile id="68" path="icse15-c-gapped/069.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/069.c" length="58" fingerprint="09878FCDFEDCCE8FED3DBE270DD7071F" />
+  <sourceFile id="69" path="icse15-c-gapped/070.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/070.c" length="44" fingerprint="8B50B676D66E6F2CA06F96A5F3F41CA4" />
+  <sourceFile id="70" path="icse15-c-gapped/071.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/071.c" length="79" fingerprint="82372AE609B95672815A703E3AC99BC9" />
+  <sourceFile id="71" path="icse15-c-gapped/072.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/072.c" length="73" fingerprint="369C25F211C09F1B0406C7DDD19E93B7" />
+  <sourceFile id="72" path="icse15-c-gapped/073.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/073.c" length="81" fingerprint="12978315568040803A932E6B472AB241" />
+  <sourceFile id="73" path="icse15-c-gapped/074.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/074.c" length="66" fingerprint="E336DF68AE128EB5A9675D2BBCD5103C" />
+  <sourceFile id="74" path="icse15-c-gapped/075.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/075.c" length="41" fingerprint="19F0570FBD91BE557D5FE659DE6ED071" />
+  <sourceFile id="75" path="icse15-c-gapped/076.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/076.c" length="63" fingerprint="1724A8227105D234B96DDD823D08D97D" />
+  <sourceFile id="76" path="icse15-c-gapped/077.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/077.c" length="38" fingerprint="6EC7CC131CEE06F58C4FE8BD678359D4" />
+  <sourceFile id="77" path="icse15-c-gapped/078.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/078.c" length="42" fingerprint="46EB871D1CE177CAF5212ADC366E9806" />
+  <sourceFile id="78" path="icse15-c-gapped/079.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/079.c" length="32" fingerprint="8D240E79C29F38FC09F55BE29C6DD525" />
+  <sourceFile id="79" path="icse15-c-gapped/080.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/080.c" length="25" fingerprint="E7056C4F33D434899E09138C909A54E4" />
+  <sourceFile id="80" path="icse15-c-gapped/081.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/081.c" length="54" fingerprint="1B08AAA28CD02413E2803D1025C47F42" />
+  <sourceFile id="81" path="icse15-c-gapped/082.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/082.c" length="32" fingerprint="2409C17962873366861036BAA1B34011" />
+  <sourceFile id="82" path="icse15-c-gapped/083.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/083.c" length="55" fingerprint="E1CD48CEBAA96EDA55F1C92A27A9E6ED" />
+  <sourceFile id="83" path="icse15-c-gapped/084.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/084.c" length="82" fingerprint="780C65BAAB238A6D899D2FFA8C98344A" />
+  <sourceFile id="84" path="icse15-c-gapped/085.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/085.c" length="35" fingerprint="738E40313A2504080134412ED23651ED" />
+  <sourceFile id="85" path="icse15-c-gapped/086.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/086.c" length="53" fingerprint="A2177DBF2473F1807A54884E5E7116EC" />
+  <sourceFile id="86" path="icse15-c-gapped/087.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/087.c" length="17" fingerprint="2D16C963FB0FD266B910A17F4A2C3E0B" />
+  <sourceFile id="87" path="icse15-c-gapped/088.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/088.c" length="37" fingerprint="1C86FF87CFC7E62FD627D189DABE9DDB" />
+  <sourceFile id="88" path="icse15-c-gapped/089.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/089.c" length="42" fingerprint="81D7BBE27533B48D62C283C5808E1FAD" />
+  <sourceFile id="89" path="icse15-c-gapped/090.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/090.c" length="196" fingerprint="1E7C968F50E8A7C5C216A6AE3DA916DC" />
+  <sourceFile id="90" path="icse15-c-gapped/091.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/091.c" length="34" fingerprint="86FB7F9275A7AD95D785C26ABBB6D059" />
+  <sourceFile id="91" path="icse15-c-gapped/092.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/092.c" length="32" fingerprint="8383D6DD00BFA844640C47EA541C9AA1" />
+  <sourceFile id="92" path="icse15-c-gapped/093.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/093.c" length="35" fingerprint="7C00493DF913B449D1AFA848CD67012A" />
+  <sourceFile id="93" path="icse15-c-gapped/094.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/094.c" length="35" fingerprint="58C3D14BEA7AA61F6F8B5158A32C6553" />
+  <sourceFile id="94" path="icse15-c-gapped/095.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/095.c" length="40" fingerprint="7325A2B671E2CB7F3FB4665298377703" />
+  <sourceFile id="95" path="icse15-c-gapped/096.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/096.c" length="56" fingerprint="512B106440692B642EB49C9F52C8324F" />
+  <sourceFile id="96" path="icse15-c-gapped/097.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/097.c" length="47" fingerprint="DCD359FD733BCCA3D6C2FD9825F4FF32" />
+  <sourceFile id="97" path="icse15-c-gapped/098.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/098.c" length="64" fingerprint="DF073C59CC770F3C72020BC9E6932EBA" />
+  <sourceFile id="98" path="icse15-c-gapped/099.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/099.c" length="58" fingerprint="075C263943D2D4BBBA32CABF6390360B" />
+  <sourceFile id="99" path="icse15-c-gapped/100.c" location="/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/12/src/100.c" length="23" fingerprint="B7AA7C04F705570F01BB34609120C43F" />
+  <cloneClass normalizedLength="6" id="3512" fingerprint="03B0A30BDF22F3EE93824A5298916EEC">
+    <clone id="3513" fingerprint="03B0A30BDF22F3EE93824A5298916EEC" startLine="13" endLine="16" startOffset="211" endOffset="325" sourceFileId="46" startUnitIndexInFile="9" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="3514" fingerprint="03B0A30BDF22F3EE93824A5298916EEC" startLine="15" endLine="18" startOffset="177" endOffset="290" sourceFileId="58" startUnitIndexInFile="9" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="274" fingerprint="03EFBC285609EB30C3A0911E79D1DB19">
+    <clone id="275" fingerprint="33A3F8D683A3E637BBEC1D48F28D8FC6" startLine="16" endLine="22" startOffset="158" endOffset="254" sourceFileId="6" startUnitIndexInFile="7" lengthInUnits="7" deltaInUnits="0" gaps="192-194" />
+    <clone id="278" fingerprint="36017C2D2D44E55BABE185E32D87CFF8" startLine="8" endLine="15" startOffset="64" endOffset="178" sourceFileId="33" startUnitIndexInFile="3" lengthInUnits="7" deltaInUnits="2" gaps="112-117" />
+    <clone id="276" fingerprint="36017C2D2D44E55BABE185E32D87CFF8" startLine="11" endLine="19" startOffset="121" endOffset="249" sourceFileId="80" startUnitIndexInFile="7" lengthInUnits="7" deltaInUnits="2" gaps="161-165" />
+    <clone id="277" fingerprint="36017C2D2D44E55BABE185E32D87CFF8" startLine="6" endLine="11" startOffset="95" endOffset="226" sourceFileId="81" startUnitIndexInFile="3" lengthInUnits="7" deltaInUnits="2" gaps="147-150" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="33548" fingerprint="142074516B29C330AAF0ABAA54A4A583">
+    <clone id="33550" fingerprint="8F37938E538A6307C31A8A8AE09B31A7" startLine="24" endLine="30" startOffset="324" endOffset="438" sourceFileId="31" startUnitIndexInFile="18" lengthInUnits="8" deltaInUnits="2" gaps="408-411" />
+    <clone id="33549" fingerprint="774271932D6974A53090F11D9560922F" startLine="23" endLine="28" startOffset="344" endOffset="472" sourceFileId="83" startUnitIndexInFile="8" lengthInUnits="8" deltaInUnits="0" gaps="382-386" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="2567" fingerprint="188A138DC5F469509A2705499A263403">
+    <clone id="2569" fingerprint="9F9A774F288DE577692BC2B8E76F434A" startLine="19" endLine="22" startOffset="223" endOffset="316" sourceFileId="23" startUnitIndexInFile="9" lengthInUnits="6" deltaInUnits="1" gaps="" />
+    <clone id="2570" fingerprint="9F9A774F288DE577692BC2B8E76F434A" startLine="12" endLine="16" startOffset="158" endOffset="265" sourceFileId="28" startUnitIndexInFile="7" lengthInUnits="6" deltaInUnits="1" gaps="" />
+    <clone id="4409" fingerprint="AA792BFBD5128611DFCC0C643D510386" startLine="7" endLine="13" startOffset="48" endOffset="158" sourceFileId="33" startUnitIndexInFile="2" lengthInUnits="7" deltaInUnits="2" gaps="120-122" />
+    <clone id="2568" fingerprint="AA792BFBD5128611DFCC0C643D510386" startLine="7" endLine="13" startOffset="48" endOffset="158" sourceFileId="33" startUnitIndexInFile="2" lengthInUnits="7" deltaInUnits="0" gaps="64-77" />
+    <clone id="4408" fingerprint="4DE82B1147D478F2EE32FC100982BE1A" startLine="13" endLine="18" startOffset="102" endOffset="218" sourceFileId="60" startUnitIndexInFile="2" lengthInUnits="7" deltaInUnits="0" gaps="177-180" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="932" fingerprint="2337C930548D4B017D4AB1908A74F2D1">
+    <clone id="933" fingerprint="7A9DAF2D1CDCF2956F05FC3EB1447A18" startLine="7" endLine="12" startOffset="120" endOffset="214" sourceFileId="15" startUnitIndexInFile="3" lengthInUnits="7" deltaInUnits="0" gaps="160-168" />
+    <clone id="934" fingerprint="21F39EF6FBE1AB65644078C7872AA0E1" startLine="11" endLine="16" startOffset="118" endOffset="225" sourceFileId="84" startUnitIndexInFile="5" lengthInUnits="7" deltaInUnits="2" gaps="207-213" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="4521" fingerprint="23916D83E7BD1ED03FB6CE1CD1CB8E89">
+    <clone id="4523" fingerprint="8F8D20EB52F4621797C374023816965C" startLine="23" endLine="28" startOffset="299" endOffset="447" sourceFileId="42" startUnitIndexInFile="9" lengthInUnits="7" deltaInUnits="2" gaps="333-353" />
+    <clone id="4522" fingerprint="8F5170DAF9873E56A52EB8F371A97B77" startLine="80" endLine="87" startOffset="941" endOffset="1114" sourceFileId="61" startUnitIndexInFile="45" lengthInUnits="7" deltaInUnits="0" gaps="992-1005" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="1107" fingerprint="264B38D6D659ABDFE480B8B6856A47C7">
+    <clone id="1108" fingerprint="05B1CCAA025DC196F728B4951D2F0606" startLine="6" endLine="16" startOffset="68" endOffset="166" sourceFileId="18" startUnitIndexInFile="2" lengthInUnits="7" deltaInUnits="0" gaps="" />
+    <clone id="1109" fingerprint="3BD83888F461998A2DFDF7E1E5B276D4" startLine="5" endLine="15" startOffset="70" endOffset="229" sourceFileId="28" startUnitIndexInFile="2" lengthInUnits="10" deltaInUnits="3" gaps="129-142,147-153,158-170" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="3364" fingerprint="29823269E23C72C68991BA9DD37055B0">
+    <clone id="3366" fingerprint="29823269E23C72C68991BA9DD37055B0" startLine="10" endLine="15" startOffset="82" endOffset="178" sourceFileId="33" startUnitIndexInFile="4" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="3365" fingerprint="29823269E23C72C68991BA9DD37055B0" startLine="13" endLine="17" startOffset="103" endOffset="188" sourceFileId="44" startUnitIndexInFile="6" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="3367" fingerprint="29823269E23C72C68991BA9DD37055B0" startLine="13" endLine="19" startOffset="133" endOffset="249" sourceFileId="80" startUnitIndexInFile="8" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="3368" fingerprint="29823269E23C72C68991BA9DD37055B0" startLine="8" endLine="11" startOffset="116" endOffset="226" sourceFileId="81" startUnitIndexInFile="4" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="33545" fingerprint="2A7DE6A278AD195F7C736B724A6BADB6">
+    <clone id="33546" fingerprint="3C8DEACB1B58209C6194A1EACE54CBB9" startLine="23" endLine="27" startOffset="344" endOffset="453" sourceFileId="83" startUnitIndexInFile="8" lengthInUnits="7" deltaInUnits="0" gaps="382-386" />
+    <clone id="33547" fingerprint="AE5B3A93FFA48594CA0B059BCAD06C41" startLine="15" endLine="21" startOffset="177" endOffset="269" sourceFileId="95" startUnitIndexInFile="3" lengthInUnits="7" deltaInUnits="2" gaps="235-239" />
+  </cloneClass>
+  <cloneClass normalizedLength="9" id="1250" fingerprint="3033B832A73E1637AD55812100E2D5B4">
+    <clone id="1251" fingerprint="DC86621693B822C834849083D97C1214" startLine="7" endLine="14" startOffset="108" endOffset="287" sourceFileId="20" startUnitIndexInFile="2" lengthInUnits="9" deltaInUnits="0" gaps="241-275" />
+    <clone id="1252" fingerprint="423E1B7445ACD541747967BCD5317EB5" startLine="5" endLine="12" startOffset="58" endOffset="204" sourceFileId="32" startUnitIndexInFile="3" lengthInUnits="10" deltaInUnits="3" gaps="96-116,177-193" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="1247" fingerprint="3817E264AF4FDB314916A3DE2F36B165">
+    <clone id="1248" fingerprint="67FC064E3143E457A933828640079980" startLine="1" endLine="9" startOffset="1" endOffset="194" sourceFileId="20" startUnitIndexInFile="0" lengthInUnits="7" deltaInUnits="0" gaps="55-102" />
+    <clone id="1249" fingerprint="5CB095088698E04CE9B8EC888FE8430B" startLine="1" endLine="10" startOffset="1" endOffset="168" sourceFileId="56" startUnitIndexInFile="0" lengthInUnits="7" deltaInUnits="2" gaps="54-88" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="271" fingerprint="3B65878F41C8BB7C04BC7FBBB070AE37">
+    <clone id="272" fingerprint="0EBA1F854D0F6CBAF594DC940AB6B232" startLine="16" endLine="20" startOffset="158" endOffset="226" sourceFileId="6" startUnitIndexInFile="7" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="273" fingerprint="22C91F29B77321B66081FBD417E80713" startLine="24" endLine="31" startOffset="313" endOffset="407" sourceFileId="30" startUnitIndexInFile="12" lengthInUnits="7" deltaInUnits="1" gaps="327-341" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="33507" fingerprint="3F2B52C0395C7530914790B8CD64E03B">
+    <clone id="33508" fingerprint="38F3E50B37B36377CFAF273BA4FAAC19" startLine="30" endLine="36" startOffset="584" endOffset="713" sourceFileId="82" startUnitIndexInFile="23" lengthInUnits="7" deltaInUnits="0" gaps="592-595" />
+    <clone id="33509" fingerprint="A0DF1CE0794862F5255BC77D50872338" startLine="41" endLine="47" startOffset="764" endOffset="889" sourceFileId="82" startUnitIndexInFile="31" lengthInUnits="6" deltaInUnits="1" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="9" id="3342" fingerprint="43E7B55AE4DE64568BB0D3BC16BEBE3A">
+    <clone id="3343" fingerprint="11B9CC82FE26995952E8E150E4C312D4" startLine="10" endLine="17" startOffset="71" endOffset="188" sourceFileId="44" startUnitIndexInFile="3" lengthInUnits="9" deltaInUnits="0" gaps="90-99" />
+    <clone id="3344" fingerprint="A3657DD40E96C1B94C7256C529572B18" startLine="9" endLine="19" startOffset="91" endOffset="249" sourceFileId="80" startUnitIndexInFile="5" lengthInUnits="9" deltaInUnits="2" gaps="105-116" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="722" fingerprint="44DB85B34E7E332B8AFC24C4626C950D">
+    <clone id="3748" fingerprint="6A7CEF06247197A673307CC847C46D52" startLine="5" endLine="12" startOffset="53" endOffset="197" sourceFileId="13" startUnitIndexInFile="1" lengthInUnits="8" deltaInUnits="1" gaps="" />
+    <clone id="723" fingerprint="6A7CEF06247197A673307CC847C46D52" startLine="5" endLine="12" startOffset="53" endOffset="197" sourceFileId="13" startUnitIndexInFile="1" lengthInUnits="8" deltaInUnits="0" gaps="119-123" />
+    <clone id="3747" fingerprint="F9D62B2460F4AEDE71DB1298C6426C23" startLine="16" endLine="24" startOffset="167" endOffset="307" sourceFileId="48" startUnitIndexInFile="6" lengthInUnits="9" deltaInUnits="0" gaps="196-203" />
+    <clone id="3749" fingerprint="6A7CEF06247197A673307CC847C46D52" startLine="4" endLine="12" startOffset="56" endOffset="159" sourceFileId="51" startUnitIndexInFile="2" lengthInUnits="8" deltaInUnits="1" gaps="" />
+    <clone id="724" fingerprint="C405462A3E65B216DEF8976B8BBC8E6C" startLine="21" endLine="31" startOffset="245" endOffset="382" sourceFileId="92" startUnitIndexInFile="9" lengthInUnits="8" deltaInUnits="2" gaps="304-309" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="511" fingerprint="45FD5A710A4AC8F1938A795569C24779">
+    <clone id="512" fingerprint="6E66AF7599630756A6D869A87E9A64C9" startLine="19" endLine="24" startOffset="245" endOffset="313" sourceFileId="9" startUnitIndexInFile="12" lengthInUnits="7" deltaInUnits="0" gaps="" />
+    <clone id="5881" fingerprint="6E66AF7599630756A6D869A87E9A64C9" startLine="19" endLine="24" startOffset="245" endOffset="313" sourceFileId="9" startUnitIndexInFile="12" lengthInUnits="7" deltaInUnits="2" gaps="302-307" />
+    <clone id="517" fingerprint="27E1C20116151972DC6345F7853BFF45" startLine="23" endLine="27" startOffset="381" endOffset="462" sourceFileId="32" startUnitIndexInFile="22" lengthInUnits="8" deltaInUnits="1" gaps="392-395" />
+    <clone id="5880" fingerprint="27F4437F8EDBC8F1B9B5E5E1687B696A" startLine="17" endLine="21" startOffset="398" endOffset="565" sourceFileId="78" startUnitIndexInFile="12" lengthInUnits="7" deltaInUnits="0" gaps="502-536" />
+    <clone id="516" fingerprint="27E1C20116151972DC6345F7853BFF45" startLine="33" endLine="41" startOffset="547" endOffset="657" sourceFileId="85" startUnitIndexInFile="20" lengthInUnits="8" deltaInUnits="1" gaps="559-569" />
+    <clone id="513" fingerprint="6E66AF7599630756A6D869A87E9A64C9" startLine="36" endLine="40" startOffset="554" endOffset="644" sourceFileId="95" startUnitIndexInFile="20" lengthInUnits="7" deltaInUnits="0" gaps="" />
+    <clone id="5882" fingerprint="6E66AF7599630756A6D869A87E9A64C9" startLine="36" endLine="40" startOffset="554" endOffset="644" sourceFileId="95" startUnitIndexInFile="20" lengthInUnits="7" deltaInUnits="2" gaps="628-632" />
+  </cloneClass>
+  <cloneClass normalizedLength="9" id="34298" fingerprint="47771B8473CCB70FD3BD0C232E0ABAC7">
+    <clone id="34300" fingerprint="4926637957CEB68903AADCE70AA05E2F" startLine="5" endLine="17" startOffset="40" endOffset="349" sourceFileId="14" startUnitIndexInFile="1" lengthInUnits="12" deltaInUnits="3" gaps="144-175,182-193,301-306" />
+    <clone id="34299" fingerprint="708E94CA142950511C4BCDEF6059A1A5" startLine="8" endLine="15" startOffset="79" endOffset="244" sourceFileId="98" startUnitIndexInFile="2" lengthInUnits="9" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="1661" fingerprint="47F929F72085645DE80D0902E9B9BD02">
+    <clone id="1662" fingerprint="EFB71A63FAE5BE963FBB3978BF7EC5BB" startLine="6" endLine="12" startOffset="67" endOffset="177" sourceFileId="24" startUnitIndexInFile="3" lengthInUnits="8" deltaInUnits="0" gaps="" />
+    <clone id="1663" fingerprint="A115014A2A13D5FD7FEA0511ED67C99C" startLine="11" endLine="19" startOffset="124" endOffset="274" sourceFileId="27" startUnitIndexInFile="6" lengthInUnits="9" deltaInUnits="1" gaps="139-149" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="5495" fingerprint="4A7F49469B5641AB3392AD581BB78CBA">
+    <clone id="5497" fingerprint="ED4527548D0407020F8259D337D139EC" startLine="4" endLine="8" startOffset="47" endOffset="144" sourceFileId="32" startUnitIndexInFile="2" lengthInUnits="7" deltaInUnits="2" gaps="96-116" />
+    <clone id="5496" fingerprint="D7CD46E034CCC6413819B3BE92ECE35D" startLine="23" endLine="31" startOffset="286" endOffset="429" sourceFileId="74" startUnitIndexInFile="10" lengthInUnits="7" deltaInUnits="0" gaps="361-384" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="4395" fingerprint="4B8C24DE89564F9879318374CEDCAFE1">
+    <clone id="4396" fingerprint="605E26B853F47CD32D6EF985419588B0" startLine="12" endLine="17" startOffset="89" endOffset="180" sourceFileId="60" startUnitIndexInFile="1" lengthInUnits="7" deltaInUnits="0" gaps="137-150" />
+    <clone id="4397" fingerprint="FFBCF3D54CED5AC5BE4CDDFFB8E9DF31" startLine="14" endLine="19" startOffset="217" endOffset="323" sourceFileId="76" startUnitIndexInFile="6" lengthInUnits="7" deltaInUnits="2" gaps="269-289" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="4637" fingerprint="4CCCEF138083890D273623568FA32EA3">
+    <clone id="4641" fingerprint="4CCCEF138083890D273623568FA32EA3" startLine="8" endLine="13" startOffset="64" endOffset="158" sourceFileId="33" startUnitIndexInFile="3" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="4638" fingerprint="4CCCEF138083890D273623568FA32EA3" startLine="7" endLine="10" startOffset="88" endOffset="174" sourceFileId="62" startUnitIndexInFile="4" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="4639" fingerprint="4CCCEF138083890D273623568FA32EA3" startLine="11" endLine="15" startOffset="121" endOffset="211" sourceFileId="80" startUnitIndexInFile="7" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="4640" fingerprint="4CCCEF138083890D273623568FA32EA3" startLine="6" endLine="10" startOffset="95" endOffset="201" sourceFileId="81" startUnitIndexInFile="3" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="4642" fingerprint="4CCCEF138083890D273623568FA32EA3" startLine="17" endLine="22" startOffset="152" endOffset="247" sourceFileId="94" startUnitIndexInFile="8" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="605" fingerprint="5DC65E38810DA23F209BD9C6219110EA">
+    <clone id="606" fingerprint="5DC65E38810DA23F209BD9C6219110EA" startLine="5" endLine="8" startOffset="51" endOffset="107" sourceFileId="12" startUnitIndexInFile="1" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="607" fingerprint="5DC65E38810DA23F209BD9C6219110EA" startLine="23" endLine="26" startOffset="344" endOffset="416" sourceFileId="83" startUnitIndexInFile="8" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="4281" fingerprint="6790C1843DBFEEBB158BDEC15998DFD6">
+    <clone id="4283" fingerprint="2188E447592B9D7908EFDB417B0AC931" startLine="10" endLine="21" startOffset="155" endOffset="271" sourceFileId="23" startUnitIndexInFile="3" lengthInUnits="10" deltaInUnits="3" gaps="164-170,212-219,223-237" />
+    <clone id="4282" fingerprint="B02A20183FEB3880DE1CB9E9296FA4E3" startLine="8" endLine="16" startOffset="131" endOffset="216" sourceFileId="58" startUnitIndexInFile="5" lengthInUnits="7" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="9" id="1557" fingerprint="67E7580943BC786A5F2491DBD16B054D">
+    <clone id="1558" fingerprint="2C7411553263BA0B472D1201C06D596E" startLine="14" endLine="22" startOffset="186" endOffset="316" sourceFileId="23" startUnitIndexInFile="6" lengthInUnits="9" deltaInUnits="0" gaps="212-219" />
+    <clone id="1559" fingerprint="807557376BF683742F4CB1F1D790631B" startLine="18" endLine="32" startOffset="224" endOffset="388" sourceFileId="45" startUnitIndexInFile="12" lengthInUnits="10" deltaInUnits="3" gaps="273-287,313-323" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="4296" fingerprint="6C266F1F3E6AB7957F56094174A74AC8">
+    <clone id="4297" fingerprint="20663241BBF81A25BD4F8AEF4866409F" startLine="13" endLine="18" startOffset="163" endOffset="290" sourceFileId="58" startUnitIndexInFile="8" lengthInUnits="7" deltaInUnits="0" gaps="229-251" />
+    <clone id="4298" fingerprint="79AE2A9B791C497543CB8ECA362BD13B" startLine="14" endLine="18" startOffset="119" endOffset="218" sourceFileId="60" startUnitIndexInFile="3" lengthInUnits="6" deltaInUnits="1" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="9" id="1758" fingerprint="718213F869F30D45D187D3B27E5E324C">
+    <clone id="1759" fingerprint="A0684ABE855DFD06EE015021CF13DD18" startLine="12" endLine="22" startOffset="138" endOffset="300" sourceFileId="26" startUnitIndexInFile="4" lengthInUnits="9" deltaInUnits="0" gaps="180-194" />
+    <clone id="1760" fingerprint="7740F64E561B4A87B88C602F60862933" startLine="24" endLine="35" startOffset="313" endOffset="498" sourceFileId="30" startUnitIndexInFile="12" lengthInUnits="9" deltaInUnits="2" gaps="450-478" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="2370" fingerprint="7CDB68EE1F14CD2E42EC950253D6DF88">
+    <clone id="2372" fingerprint="7CDB68EE1F14CD2E42EC950253D6DF88" startLine="11" endLine="16" startOffset="124" endOffset="199" sourceFileId="27" startUnitIndexInFile="6" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="2371" fingerprint="7CDB68EE1F14CD2E42EC950253D6DF88" startLine="23" endLine="27" startOffset="316" endOffset="373" sourceFileId="31" startUnitIndexInFile="17" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="4284" fingerprint="8345907289D34431129A145F093A73C3">
+    <clone id="4286" fingerprint="86EB5309598606DE703331C51B952B6A" startLine="9" endLine="24" startOffset="86" endOffset="339" sourceFileId="52" startUnitIndexInFile="4" lengthInUnits="11" deltaInUnits="3" gaps="133-169,174-215,220-263" />
+    <clone id="4285" fingerprint="6D39EA4A0D0C21F6C414FECA7F3EBADC" startLine="8" endLine="16" startOffset="131" endOffset="222" sourceFileId="58" startUnitIndexInFile="5" lengthInUnits="8" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="33555" fingerprint="857E4C32E3BAA97396B8E4350C4257E6">
+    <clone id="33557" fingerprint="9E812B93CEB16256DFE52E42CE4539DB" startLine="27" endLine="36" startOffset="351" endOffset="486" sourceFileId="31" startUnitIndexInFile="20" lengthInUnits="8" deltaInUnits="2" gaps="408-411,445-469" />
+    <clone id="33556" fingerprint="25454E06FD1948C552EFC5BCF9F02D4D" startLine="26" endLine="30" startOffset="392" endOffset="493" sourceFileId="83" startUnitIndexInFile="11" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="16" id="2531" fingerprint="86CA20887F63AE4B85658499FFE04857">
+    <clone id="2532" fingerprint="B55A850B8EA5B09B6D7165FD9890D6B3" startLine="19" endLine="33" startOffset="307" endOffset="551" sourceFileId="32" startUnitIndexInFile="18" lengthInUnits="16" deltaInUnits="0" gaps="329-332,392-395" />
+    <clone id="2533" fingerprint="78C923F39250F4F5E963991D17AB75E6" startLine="29" endLine="49" startOffset="455" endOffset="731" sourceFileId="95" startUnitIndexInFile="15" lengthInUnits="16" deltaInUnits="4" gaps="478-485,540-547" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="4208" fingerprint="89A3A925FEB5331A56EB829578B19557">
+    <clone id="4209" fingerprint="F4B5AE4F386B9D467F579EFEA786D332" startLine="13" endLine="18" startOffset="127" endOffset="247" sourceFileId="57" startUnitIndexInFile="7" lengthInUnits="8" deltaInUnits="0" gaps="230-238" />
+    <clone id="4210" fingerprint="A9BC5C8BF23BDBFD00223BE2C7E17395" startLine="8" endLine="13" startOffset="79" endOffset="200" sourceFileId="98" startUnitIndexInFile="2" lengthInUnits="8" deltaInUnits="2" gaps="194-196" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="561" fingerprint="927F360BFBF8398863E768E210B5D669">
+    <clone id="562" fingerprint="C1D8FAE26C3A0FE9B2D9FDEE4CAF6A68" startLine="25" endLine="34" startOffset="226" endOffset="417" sourceFileId="11" startUnitIndexInFile="13" lengthInUnits="8" deltaInUnits="0" gaps="246-248" />
+    <clone id="563" fingerprint="14D0FDEB96FB66A7D8762FAA9FB2699C" startLine="10" endLine="15" startOffset="108" endOffset="323" sourceFileId="13" startUnitIndexInFile="4" lengthInUnits="8" deltaInUnits="2" gaps="126-128" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="3806" fingerprint="96D3763C24E9341B65FA27DC987A8C41">
+    <clone id="3808" fingerprint="4EF172BA35A468E67E8E366CC07264D5" startLine="18" endLine="24" startOffset="181" endOffset="307" sourceFileId="48" startUnitIndexInFile="7" lengthInUnits="8" deltaInUnits="2" gaps="256-267" />
+    <clone id="3807" fingerprint="477775A0BC0C5BA5E65129C13820F0CA" startLine="12" endLine="16" startOffset="203" endOffset="299" sourceFileId="50" startUnitIndexInFile="3" lengthInUnits="8" deltaInUnits="0" gaps="212-222" />
+  </cloneClass>
+  <cloneClass normalizedLength="10" id="33383" fingerprint="9B96E1B1F9F6548EE8846C7E976B7779">
+    <clone id="33384" fingerprint="63FFC6D7B8546A154AFEFCAB074C8082" startLine="11" endLine="29" startOffset="121" endOffset="497" sourceFileId="80" startUnitIndexInFile="7" lengthInUnits="10" deltaInUnits="0" gaps="481-493" />
+    <clone id="33385" fingerprint="9C86D1C52D1BE9489985FD0A61B77DDC" startLine="6" endLine="12" startOffset="95" endOffset="256" sourceFileId="81" startUnitIndexInFile="3" lengthInUnits="10" deltaInUnits="2" gaps="247-252" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="2425" fingerprint="A4476417FAC2ED919000C917E38A3B9D">
+    <clone id="2426" fingerprint="6B634A59154B24CCBB3C7F72BBE5D888" startLine="3" endLine="8" startOffset="31" endOffset="144" sourceFileId="32" startUnitIndexInFile="1" lengthInUnits="8" deltaInUnits="0" gaps="47-54" />
+    <clone id="2427" fingerprint="96E6C64168584F4BCE836E31693A7FED" startLine="14" endLine="20" startOffset="146" endOffset="277" sourceFileId="36" startUnitIndexInFile="11" lengthInUnits="8" deltaInUnits="2" gaps="164-174" />
+  </cloneClass>
+  <cloneClass normalizedLength="9" id="4287" fingerprint="A56F7DA16827083C602F611797A173A0">
+    <clone id="4288" fingerprint="D49CE648ACA16CC161E4008DC2036DA0" startLine="8" endLine="17" startOffset="131" endOffset="251" sourceFileId="58" startUnitIndexInFile="5" lengthInUnits="9" deltaInUnits="0" gaps="219-222" />
+    <clone id="4289" fingerprint="58E478C7A62CA0BC44A0097F3DA32DD9" startLine="11" endLine="23" startOffset="119" endOffset="276" sourceFileId="94" startUnitIndexInFile="5" lengthInUnits="10" deltaInUnits="3" gaps="206-208,217-247" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="3006" fingerprint="AE5D339BE31B5FC73E2A3A3B09096DA0">
+    <clone id="3007" fingerprint="AE5D339BE31B5FC73E2A3A3B09096DA0" startLine="106" endLine="114" startOffset="2845" endOffset="3083" sourceFileId="38" startUnitIndexInFile="67" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="3008" fingerprint="AE5D339BE31B5FC73E2A3A3B09096DA0" startLine="62" endLine="72" startOffset="1285" endOffset="1512" sourceFileId="71" startUnitIndexInFile="34" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="4631" fingerprint="AF830F775EBFCD97D76F84D837E654F2">
+    <clone id="4633" fingerprint="D538EF2D73E1499273C53EE018B16346" startLine="10" endLine="16" startOffset="129" endOffset="265" sourceFileId="28" startUnitIndexInFile="5" lengthInUnits="8" deltaInUnits="2" gaps="158-170" />
+    <clone id="4632" fingerprint="17454EB0F1C2B65D04BD47E5C1739E79" startLine="5" endLine="10" startOffset="55" endOffset="174" sourceFileId="62" startUnitIndexInFile="2" lengthInUnits="8" deltaInUnits="0" gaps="72-83" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="2144" fingerprint="B109CE07D47F781E368718CFFB24C116">
+    <clone id="2145" fingerprint="1D25720E5A5028F1E639054277670334" startLine="32" endLine="42" startOffset="365" endOffset="570" sourceFileId="29" startUnitIndexInFile="19" lengthInUnits="7" deltaInUnits="0" gaps="" />
+    <clone id="2146" fingerprint="C9EE6C82285539D853EC94F931C726B4" startLine="21" endLine="31" startOffset="353" endOffset="662" sourceFileId="76" startUnitIndexInFile="14" lengthInUnits="10" deltaInUnits="3" gaps="439-485,496-499,515-521" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="1461" fingerprint="B3FACE09F40AB287AEF4C53CEC1F07D9">
+    <clone id="740" fingerprint="D79AEE38D8D43ACEBD8721F0A5D5C20F" startLine="7" endLine="14" startOffset="70" endOffset="306" sourceFileId="13" startUnitIndexInFile="2" lengthInUnits="9" deltaInUnits="0" gaps="141-153,209-254" />
+    <clone id="1462" fingerprint="1BCB3B87A70DDCA412FC68DB2587AFB0" startLine="9" endLine="16" startOffset="85" endOffset="297" sourceFileId="22" startUnitIndexInFile="4" lengthInUnits="8" deltaInUnits="0" gaps="189-248" />
+    <clone id="1463" fingerprint="DC7B15156B466148DD0E064858E0AEB3" startLine="12" endLine="17" startOffset="224" endOffset="327" sourceFileId="50" startUnitIndexInFile="5" lengthInUnits="7" deltaInUnits="1" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="129" fingerprint="BB3A1D344F0105284064D3F6FC0041CB">
+    <clone id="130" fingerprint="21FCD5B9C3FA95649E3FE3067A79E803" startLine="33" endLine="38" startOffset="648" endOffset="766" sourceFileId="3" startUnitIndexInFile="24" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="131" fingerprint="A8225885D37F91089D7F0D98886677EA" startLine="20" endLine="26" startOffset="249" endOffset="411" sourceFileId="83" startUnitIndexInFile="5" lengthInUnits="8" deltaInUnits="2" gaps="344-351,382-386" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="518" fingerprint="C2B922C7C263463F80C14EEA5B1AA288">
+    <clone id="519" fingerprint="C2B922C7C263463F80C14EEA5B1AA288" startLine="21" endLine="24" startOffset="254" endOffset="313" sourceFileId="9" startUnitIndexInFile="13" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="522" fingerprint="C2B922C7C263463F80C14EEA5B1AA288" startLine="25" endLine="27" startOffset="403" endOffset="462" sourceFileId="32" startUnitIndexInFile="24" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="523" fingerprint="C2B922C7C263463F80C14EEA5B1AA288" startLine="42" endLine="44" startOffset="627" endOffset="683" sourceFileId="44" startUnitIndexInFile="22" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="520" fingerprint="C2B922C7C263463F80C14EEA5B1AA288" startLine="36" endLine="41" startOffset="575" endOffset="657" sourceFileId="85" startUnitIndexInFile="22" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="521" fingerprint="C2B922C7C263463F80C14EEA5B1AA288" startLine="37" endLine="40" startOffset="564" endOffset="644" sourceFileId="95" startUnitIndexInFile="21" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="9" id="3673" fingerprint="C87F19C37CCC3AA87B2C256F251EDC43">
+    <clone id="3674" fingerprint="0B9136C3F5DFB0CA1549AE399D5690DC" startLine="6" endLine="12" startOffset="84" endOffset="200" sourceFileId="47" startUnitIndexInFile="3" lengthInUnits="9" deltaInUnits="0" gaps="142-152" />
+    <clone id="3675" fingerprint="A03E43BD6CBBDE28396FE56D6191B567" startLine="6" endLine="13" startOffset="58" endOffset="222" sourceFileId="77" startUnitIndexInFile="1" lengthInUnits="10" deltaInUnits="3" gaps="143-152,172-184" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="533" fingerprint="D163510DD3137B71D54B806863EC5FF0">
+    <clone id="534" fingerprint="08911C2DCBCDE92D993BC1A29902FFC1" startLine="9" endLine="13" startOffset="194" endOffset="289" sourceFileId="10" startUnitIndexInFile="6" lengthInUnits="7" deltaInUnits="0" gaps="240-245" />
+    <clone id="535" fingerprint="14865459B05C3B75BA757E402C5A0173" startLine="7" endLine="12" startOffset="75" endOffset="177" sourceFileId="24" startUnitIndexInFile="4" lengthInUnits="7" deltaInUnits="2" gaps="163-177" />
+    <clone id="536" fingerprint="14865459B05C3B75BA757E402C5A0173" startLine="14" endLine="19" startOffset="157" endOffset="274" sourceFileId="27" startUnitIndexInFile="8" lengthInUnits="7" deltaInUnits="2" gaps="257-274" />
+  </cloneClass>
+  <cloneClass normalizedLength="13" id="34308" fingerprint="D198C097C6A6EB6857943129FD8EFB07">
+    <clone id="34310" fingerprint="0CEE2F4F5126EB25F9A19A9400952798" startLine="22" endLine="37" startOffset="257" endOffset="698" sourceFileId="42" startUnitIndexInFile="8" lengthInUnits="14" deltaInUnits="3" gaps="333-353,459-494" />
+    <clone id="34309" fingerprint="357DE7A498665763CBDB6EFFD9979E4D" startLine="10" endLine="24" startOffset="108" endOffset="515" sourceFileId="98" startUnitIndexInFile="4" lengthInUnits="13" deltaInUnits="0" gaps="256-272" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="33775" fingerprint="D2068C65E941EEC06ECD1838D4043419">
+    <clone id="33777" fingerprint="96F536AD792AE5CEC2F7033CD53D61B7" startLine="3" endLine="11" startOffset="57" endOffset="227" sourceFileId="82" startUnitIndexInFile="1" lengthInUnits="10" deltaInUnits="3" gaps="72-81,86-93,175-181" />
+    <clone id="33776" fingerprint="92E1C60B85A2A36E107A162E376B17BF" startLine="7" endLine="13" startOffset="92" endOffset="224" sourceFileId="88" startUnitIndexInFile="3" lengthInUnits="7" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="294" fingerprint="D3752C6E8F914BDA72184297CA7E32AE">
+    <clone id="295" fingerprint="718372901E9FFE178E9CE41319703F23" startLine="17" endLine="23" startOffset="168" endOffset="280" sourceFileId="6" startUnitIndexInFile="8" lengthInUnits="7" deltaInUnits="0" gaps="204-226" />
+    <clone id="296" fingerprint="183167CFDEFA8032B0F9BEEE53CD1971" startLine="17" endLine="21" startOffset="186" endOffset="269" sourceFileId="95" startUnitIndexInFile="4" lengthInUnits="6" deltaInUnits="1" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="537" fingerprint="DBB9442C70FBB2674ED0939C5D2774A0">
+    <clone id="538" fingerprint="1F14C8BBE568772795A9A26C08528BB5" startLine="10" endLine="14" startOffset="213" endOffset="311" sourceFileId="10" startUnitIndexInFile="7" lengthInUnits="7" deltaInUnits="0" gaps="240-245" />
+    <clone id="539" fingerprint="32470A48E6E532EF9E429882EB6DEEF7" startLine="8" endLine="12" startOffset="89" endOffset="194" sourceFileId="12" startUnitIndexInFile="4" lengthInUnits="7" deltaInUnits="2" gaps="112-136" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="1065" fingerprint="EB498CAC2FDADC2ED3F729431F487A3B">
+    <clone id="1066" fingerprint="41A57AB40E433226708B02B07BB11394" startLine="20" endLine="26" startOffset="376" endOffset="525" sourceFileId="16" startUnitIndexInFile="17" lengthInUnits="6" deltaInUnits="0" gaps="" />
+    <clone id="1067" fingerprint="BA18D76674FBF7468807C2D55A159C0D" startLine="41" endLine="56" startOffset="565" endOffset="756" sourceFileId="68" startUnitIndexInFile="22" lengthInUnits="7" deltaInUnits="1" gaps="630-632" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="2020" fingerprint="F1061678031569F1A354FF73D764DF0E">
+    <clone id="2021" fingerprint="5840D683FB2838E8BCDB884EDEF9B01A" startLine="34" endLine="45" startOffset="513" endOffset="725" sourceFileId="28" startUnitIndexInFile="23" lengthInUnits="7" deltaInUnits="0" gaps="577-598" />
+    <clone id="2022" fingerprint="2620EC33AF2F6F3F96A7E692CAA0F33B" startLine="28" endLine="37" startOffset="484" endOffset="656" sourceFileId="47" startUnitIndexInFile="23" lengthInUnits="7" deltaInUnits="2" gaps="536-551" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="5792" fingerprint="F29C0E6095433691E62F723DCCCEB890">
+    <clone id="5794" fingerprint="1B0C56D862DE09790A4DE8A781A27607" startLine="5" endLine="13" startOffset="49" endOffset="232" sourceFileId="16" startUnitIndexInFile="1" lengthInUnits="10" deltaInUnits="3" gaps="86-113,118-148,196-203" />
+    <clone id="5793" fingerprint="5EFC2CA502E98DB462B20C497F55C666" startLine="10" endLine="14" startOffset="136" endOffset="275" sourceFileId="78" startUnitIndexInFile="4" lengthInUnits="7" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="33787" fingerprint="F73A5B6B94E869173358ADB6CE92E77D">
+    <clone id="3199" fingerprint="18874D0CDDD49E2959C44B12C7225FA5" startLine="22" endLine="28" startOffset="257" endOffset="447" sourceFileId="42" startUnitIndexInFile="8" lengthInUnits="8" deltaInUnits="0" gaps="333-353" />
+    <clone id="33788" fingerprint="E4A863269FAE0828BA748CA2B26145E6" startLine="9" endLine="15" startOffset="111" endOffset="268" sourceFileId="88" startUnitIndexInFile="4" lengthInUnits="7" deltaInUnits="0" gaps="214-219" />
+    <clone id="3200" fingerprint="3A57AD9EF3364304BC182DE487084550" startLine="10" endLine="15" startOffset="108" endOffset="244" sourceFileId="98" startUnitIndexInFile="4" lengthInUnits="7" deltaInUnits="1" gaps="" />
+    <clone id="33789" fingerprint="3A57AD9EF3364304BC182DE487084550" startLine="10" endLine="15" startOffset="108" endOffset="244" sourceFileId="98" startUnitIndexInFile="4" lengthInUnits="7" deltaInUnits="2" gaps="194-196" />
+  </cloneClass>
+  <cloneClass normalizedLength="7" id="34049" fingerprint="F9ECEBE006E6EF5E8F9D15320FEC91D3">
+    <clone id="34052" fingerprint="4A19AA9159A3AF2DDC0F24B17A1277B5" startLine="7" endLine="12" startOffset="70" endOffset="197" sourceFileId="13" startUnitIndexInFile="2" lengthInUnits="7" deltaInUnits="2" gaps="119-123" />
+    <clone id="34051" fingerprint="4A19AA9159A3AF2DDC0F24B17A1277B5" startLine="19" endLine="24" startOffset="196" endOffset="307" sourceFileId="48" startUnitIndexInFile="8" lengthInUnits="7" deltaInUnits="2" gaps="237-243" />
+    <clone id="34053" fingerprint="4A19AA9159A3AF2DDC0F24B17A1277B5" startLine="7" endLine="12" startOffset="71" endOffset="159" sourceFileId="51" startUnitIndexInFile="3" lengthInUnits="7" deltaInUnits="2" gaps="106-108" />
+    <clone id="34050" fingerprint="6E560AC4E2C03B03FCA3A864841F0121" startLine="23" endLine="31" startOffset="260" endOffset="382" sourceFileId="92" startUnitIndexInFile="10" lengthInUnits="7" deltaInUnits="0" gaps="304-309" />
+  </cloneClass>
+  <cloneClass normalizedLength="8" id="5432" fingerprint="FA8124FA7417415B3FB5BFD327754DFF">
+    <clone id="5433" fingerprint="B969A5F098C10E97AC644D00B348EA2A" startLine="29" endLine="36" startOffset="446" endOffset="579" sourceFileId="73" startUnitIndexInFile="19" lengthInUnits="8" deltaInUnits="0" gaps="543-558" />
+    <clone id="5434" fingerprint="E3345F8B168275B2E994CCC44009BCD8" startLine="38" endLine="46" startOffset="588" endOffset="723" sourceFileId="73" startUnitIndexInFile="27" lengthInUnits="8" deltaInUnits="2" gaps="686-702" />
+  </cloneClass>
+  <cloneClass normalizedLength="6" id="34018" fingerprint="FF7A1A05E30FE3BD1A4517C891BA0C83">
+    <clone id="34020" fingerprint="21671C9F42A6550844D9B26E16DFE18B" startLine="9" endLine="16" startOffset="102" endOffset="225" sourceFileId="84" startUnitIndexInFile="4" lengthInUnits="8" deltaInUnits="2" gaps="168-199,207-213" />
+    <clone id="34019" fingerprint="10EF913A2112D607A8BB1EE865B11D2B" startLine="24" endLine="27" startOffset="357" endOffset="434" sourceFileId="90" startUnitIndexInFile="13" lengthInUnits="6" deltaInUnits="0" gaps="" />
+  </cloneClass>
+</cloneReport>

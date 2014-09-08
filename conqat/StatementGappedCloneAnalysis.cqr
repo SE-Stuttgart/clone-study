@@ -1,0 +1,10 @@
+#!org.conqat.engine.code_clones.detection.StatementGappedCloneAnalysis
+output.dir=/Users/wagnerst/Dropbox/Working Copies/ICSE 2015/func-clones/study-results/conqat/GoogleCodeJamC
+input.project=icse15-c-gapped
+input.dir=/Users/wagnerst/Dropbox/Working Copies/ICSE 2015/func-clones/study-objects/GoogleCodeJamC/src
+include.pattern=**/*.c
+method.depth=-1
+scope.keywords=UNIT
+gap.ratio=0.3
+clone.minlength=6
+errors.max=3
