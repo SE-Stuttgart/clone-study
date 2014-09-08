@@ -1,0 +1,886 @@
+  * Code Jam 2014 ↓ <./>
+      o Qualification Round <round/0>
+      o Round 1A <round/1>
+      o Round 1B <round/2>
+      o Round 1C <round/3>
+      o Round 2 <round/4>
+      o Round 3 <round/5>
+  * Countries <regions>
+  * Languages <languages>
+  * Round 1C <round/3>
+
+
+  Part Elf solutions
+
+Part Elf <problems/3/1> was solved using Java <languages/Java> by 685
+contestants. Solution sizes: average 2014 bytes (shortest: 544; longest:
+16782).
+
+The list below is sorted by ranking. You can also sort by solution size
+<solutions/3/1/compact/Java>.
+
+6. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=xiaowuc1>
+xiaowuc1 <name/xiaowuc1> (S, L) (1855 B)
+11. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=daveagp>
+daveagp <name/daveagp> (S, L) (956 B)
+22. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Joshik>
+Joshik <name/Joshik> (S, L) (1674 B)
+25. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=jchen314>
+jchen314 <name/jchen314> (S, L) (1402 B)
+26. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=argentony>
+argentony <name/argentony> (S, L) (1435 B)
+32. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=mystic>
+mystic <name/mystic> (S, L) (1499 B)
+49. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=humblefool>
+humblefool <name/humblefool> (S, L) (861 B)
+58. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=andrewzta>
+andrewzta <name/andrewzta> (S, L) (2485 B)
+63. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ttim>
+ttim <name/ttim> (S, L)
+66. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=alexey.enkov>
+alexey.enkov <name/alexey.enkov> (S, L) (1860 B)
+73. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=framalex>
+framalex <name/framalex> (S, L) (2110 B)
+129. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=dalex>
+dalex <name/dalex> (S, L) (4460 B)
+131. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=aditsu>
+aditsu <name/aditsu> (S, L) (1109 B)
+134. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=skortzy>
+skortzy <name/skortzy> (S, L) (1985 B)
+146. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ondivate>
+ondivate <name/ondivate> (S, L) (1309 B)
+162. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=slex>
+slex <name/slex> (S, L) (1687 B)
+180. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Paf>
+Paf <name/Paf> (S) (5553 B)
+182. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=attila>
+attila <name/attila> (S) (2398 B)
+183. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=piotr.kukla>
+piotr.kukla <name/piotr.kukla> (S) (2367 B)
+204. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=0b00101010>
+0b00101010 <name/0b00101010> (S, L) (1224 B)
+206. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ora.dll>
+ora.dll <name/ora.dll> (S, L) (748 B)
+213. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=rho>
+rho <name/rho> (S, L) (883 B)
+225. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Artyom>
+Artyom <name/Artyom> (S, L) (853 B)
+228. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Lau>
+Lau <name/Lau> (S, L) (878 B)
+255. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=SergeyWeiss>
+SergeyWeiss <name/SergeyWeiss> (S, L) (1956 B) 	279. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=TheRaven>
+TheRaven <name/TheRaven> (S, L) (831 B)
+297. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Zapata>
+Zapata <name/Zapata> (S, L) (2376 B)
+300. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=albani>
+albani <name/albani> (S, L) (2896 B)
+302. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=littlesheep2014>
+littlesheep2014 <name/littlesheep2014> (S, L) (2252 B)
+319. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ARechitsky>
+ARechitsky <name/ARechitsky> (S, L) (4686 B)
+325. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=funnything>
+funnything <name/funnything> (S, L)
+339. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Gleb>
+Gleb <name/Gleb> (S, L) (1655 B)
+345. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Sasha>
+Sasha <name/Sasha> (S, L) (1438 B)
+355. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=zlp>
+zlp <name/zlp> (S, L) (1466 B)
+358. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=rohanp77>
+rohanp77 <name/rohanp77> (S, L) (1534 B)
+364. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Tellmarch>
+Tellmarch <name/Tellmarch> (S, L) (1898 B)
+381. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=karsten>
+karsten <name/karsten> (S, L) (1450 B)
+387. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=alex700>
+alex700 <name/alex700> (S, L) (2344 B)
+388. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Elias>
+Elias <name/Elias> (S, L) (1411 B)
+397. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=superlukia>
+superlukia <name/superlukia> (S, L) (4072 B)
+405. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ugo>
+ugo <name/ugo> (S, L) (1888 B)
+408. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=khelman>
+khelman <name/khelman> (S, L) (1942 B)
+421. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=peter31415>
+peter31415 <name/peter31415> (S, L) (2126 B)
+423. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=jah>
+jah <name/jah> (S, L) (5140 B)
+436. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=wang108>
+wang108 <name/wang108> (S, L) (1329 B)
+444. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=JaapB>
+JaapB <name/JaapB> (S, L) (1762 B)
+447. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Jeoygin>
+Jeoygin <name/Jeoygin> (S, L) (5140 B)
+454. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=creelyvh>
+creelyvh <name/creelyvh> (S, L) (888 B)
+462. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=surial>
+surial <name/surial> (S, L) (1023 B)
+464. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Kraken>
+Kraken <name/Kraken> (S, L) (1461 B) 	466. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=toshif>
+toshif <name/toshif> (S, L) (1862 B)
+467. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ss.>
+ss. <name/ss.> (S, L) (1510 B)
+468. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Kirhog>
+Kirhog <name/Kirhog> (S, L) (1723 B)
+485. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=VehicleOfPuzzle>
+VehicleOfPuzzle <name/VehicleOfPuzzle> (S, L) (833 B)
+490. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=AlexanderBolshakov>
+AlexanderBolshakov <name/AlexanderBolshakov> (S, L) (2476 B)
+493. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ant.ermilov>
+ant.ermilov <name/ant.ermilov> (S, L) (1764 B)
+499. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=anton.akhi>
+anton.akhi <name/anton.akhi> (S, L) (1491 B)
+503. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=rebelation>
+rebelation <name/rebelation> (S, L) (1786 B)
+505. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=heekyu>
+heekyu <name/heekyu> (S, L) (2909 B)
+508. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ep.c87>
+ep.c87 <name/ep.c87> (S, L) (1204 B)
+515. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=foxwlog>
+foxwlog <name/foxwlog> (S, L) (1468 B)
+520. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Cricycle>
+Cricycle <name/Cricycle> (S, L) (972 B)
+521. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=rjjfdn>
+rjjfdn <name/rjjfdn> (S, L) (1220 B)
+523. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ika>
+ika <name/ika> (S, L) (3350 B)
+524. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=sygi>
+sygi <name/sygi> (S, L) (4685 B)
+529. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=wsh>
+wsh <name/wsh> (S, L) (1682 B)
+531. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=alien.i>
+alien.i <name/alien.i> (S, L) (1131 B)
+538. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ReynoT>
+ReynoT <name/ReynoT> (S, L) (965 B)
+546. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=hero80>
+hero80 <name/hero80> (S, L) (1896 B)
+552. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=BlackHole>
+BlackHole <name/BlackHole> (S, L) (1298 B)
+588. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=algogenius>
+algogenius <name/algogenius> (S, L) (2500 B)
+596. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=AlexTolstov>
+AlexTolstov <name/AlexTolstov> (S, L) (1586 B)
+602. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=dimkadimon>
+dimkadimon <name/dimkadimon> (S, L) (1242 B)
+604. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Windlei>
+Windlei <name/Windlei> (S, L) (1526 B)
+609. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=WiBk>
+WiBk <name/WiBk> (S, L) (3164 B) 	616. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=kenta826>
+kenta826 <name/kenta826> (S, L) (1168 B)
+624. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Callum>
+Callum <name/Callum> (S, L) (1351 B)
+629. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=chinesedfan>
+chinesedfan <name/chinesedfan> (S, L) (775 B)
+632. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=bpa>
+bpa <name/bpa> (S, L) (2058 B)
+642. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=FrostA>
+FrostA <name/FrostA> (S, L) (952 B)
+645. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=zhs>
+zhs <name/zhs> (S, L) (1558 B)
+650. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=TheParadoxTurtle>
+TheParadoxTurtle <name/TheParadoxTurtle> (S) (1031 B)
+656. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=vishwacs111>
+vishwacs111 <name/vishwacs111> (S) (1142 B)
+662. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=jamu>
+jamu <name/jamu> (S) (1159 B)
+677. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Jin03002>
+Jin03002 <name/Jin03002> (S, L) (979 B)
+679. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=pipikaqiu>
+pipikaqiu <name/pipikaqiu> (S, L) (1973 B)
+688. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=watermaximillion>
+watermaximillion <name/watermaximillion> (S, L) (1849 B)
+690. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=takuk>
+takuk <name/takuk> (S, L) (1760 B)
+703. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=sessoh>
+sessoh <name/sessoh> (S, L) (1179 B)
+706. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=zhanhuang>
+zhanhuang <name/zhanhuang> (S, L) (1338 B)
+719. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=abhay11>
+abhay11 <name/abhay11> (S, L) (809 B)
+722. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=vineet.paliwal>
+vineet.paliwal <name/vineet.paliwal> (S, L) (1881 B)
+728. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=iknownothingitstasty>
+iknownothingitstasty <name/iknownothingitstasty> (S, L) (1577 B)
+732. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Blue.Bear>
+Blue.Bear <name/Blue.Bear> (S, L) (1338 B)
+736. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=t.kaido>
+t.kaido <name/t.kaido> (S, L) (1632 B)
+742. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=siegetanks>
+siegetanks <name/siegetanks> (S, L) (1782 B)
+744. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=vahid>
+vahid <name/vahid> (S, L) (1767 B)
+763. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=allmar11>
+allmar11 <name/allmar11> (S, L) (2310 B)
+770. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=samet>
+samet <name/samet> (S, L) (1141 B)
+771. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Greg42>
+Greg42 <name/Greg42> (S, L) (2729 B)
+
+777. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ckb1coder2>
+ckb1coder2 <name/ckb1coder2> (S, L) (1072 B)
+794. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Berezin>
+Berezin <name/Berezin> (S) (2615 B)
+795. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=jdillet>
+jdillet <name/jdillet> (S) (1793 B)
+810. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=nyama.gg>
+nyama.gg <name/nyama.gg> (S) (2270 B)
+812. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=artie>
+artie <name/artie> (S) (2581 B)
+839. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=RahulSharma>
+RahulSharma <name/RahulSharma> (S, L) (1128 B)
+841. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=co.saka>
+co.saka <name/co.saka> (S, L) (4236 B)
+850. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=SaveVMK>
+SaveVMK <name/SaveVMK> (S, L) (1125 B)
+852. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=rzheng>
+rzheng <name/rzheng> (S, L) (859 B)
+861. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=pashkal>
+pashkal <name/pashkal> (S, L) (1545 B)
+862. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=j.e.>
+j.e. <name/j.e.> (S, L) (1300 B)
+865. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=qiankanglai>
+qiankanglai <name/qiankanglai> (S, L) (1941 B)
+867. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=vladimir.ionescu>
+vladimir.ionescu <name/vladimir.ionescu> (S, L)
+882. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Tomik>
+Tomik <name/Tomik> (S, L) (1372 B)
+885. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=CowZow>
+CowZow <name/CowZow> (S, L) (1440 B)
+886. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Draaax>
+Draaax <name/Draaax> (S, L) (826 B)
+887. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=jopiko>
+jopiko <name/jopiko> (S, L) (1163 B)
+891. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=iamsha>
+iamsha <name/iamsha> (S, L) (2975 B)
+893. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Mathfactory>
+Mathfactory <name/Mathfactory> (S, L)
+900. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=shubhamjha3003>
+shubhamjha3003 <name/shubhamjha3003> (S, L) (1060 B)
+910. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=apetuhovskiy>
+apetuhovskiy <name/apetuhovskiy> (S, L) (2192 B)
+922. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=koji>
+koji <name/koji> (S, L) (1370 B)
+929. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=codejam2014>
+codejam2014 <name/codejam2014> (S, L) (2695 B)
+933. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=NoS>
+NoS <name/NoS> (S, L) (2132 B)
+938. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=deukmo>
+deukmo <name/deukmo> (S, L) (1456 B) 	939. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Vin13>
+Vin13 <name/Vin13> (S, L) (1221 B)
+944. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=T.Motooka>
+T.Motooka <name/T.Motooka> (S, L) (1839 B)
+946. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=kyacout>
+kyacout <name/kyacout> (S, L) (1298 B)
+949. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Alex.z>
+Alex.z <name/Alex.z> (S, L) (1948 B)
+961. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Invest>
+Invest <name/Invest> (S, L) (1738 B)
+968. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=islam.al.aarag>
+islam.al.aarag <name/islam.al.aarag> (S, L) (1164 B)
+973. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Betlista>
+Betlista <name/Betlista> (S, L) (1326 B)
+976. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=kimikel>
+kimikel <name/kimikel> (S, L) (1686 B)
+991. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Nestman>
+Nestman <name/Nestman> (S, L) (1208 B)
+992. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=haruki57>
+haruki57 <name/haruki57> (S, L) (1985 B)
+998. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=alexey.kasatkin>
+alexey.kasatkin <name/alexey.kasatkin> (S, L) (1378 B)
+1004. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Megabyter>
+Megabyter <name/Megabyter> (S, L) (2377 B)
+1006. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=panstanislav>
+panstanislav <name/panstanislav> (S, L) (1470 B)
+1021. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=kicker>
+kicker <name/kicker> (S, L) (1621 B)
+1022. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=edemairy>
+edemairy <name/edemairy> (S, L) (4216 B)
+1028. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=bohuss>
+bohuss <name/bohuss> (S, L) (3429 B)
+1037. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=JKqq>
+JKqq <name/JKqq> (S, L) (2175 B)
+1040. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=octavian1001>
+octavian1001 <name/octavian1001> (S, L) (1722 B)
+1053. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Williard>
+Williard <name/Williard> (S, L) (1173 B)
+1060. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=wwbcarol>
+wwbcarol <name/wwbcarol> (S, L) (2623 B)
+1063. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=iimanii>
+iimanii <name/iimanii> (S, L) (3944 B)
+1065. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Azat>
+Azat <name/Azat> (S, L) (3128 B)
+1069. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=michael.egorov>
+michael.egorov <name/michael.egorov> (S, L) (1515 B)
+1071. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=kkhamar>
+kkhamar <name/kkhamar> (S, L) (1374 B)
+1076. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ilove2code>
+ilove2code <name/ilove2code> (S, L) (2030 B) 	1078. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Eulerdora>
+Eulerdora <name/Eulerdora> (S, L) (1829 B)
+1080. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=dshohov>
+dshohov <name/dshohov> (S, L) (4189 B)
+1086. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=J0..0K>
+J0..0K <name/J0..0K> (S, L) (2143 B)
+1088. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Gooooooogler>
+Gooooooogler <name/Gooooooogler> (S, L) (1900 B)
+1090. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=gangien>
+gangien <name/gangien> (S, L) (16782 B)
+1092. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=notmichael>
+notmichael <name/notmichael> (S, L) (1065 B)
+1095. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=hak7a3>
+hak7a3 <name/hak7a3> (S, L) (925 B)
+1099. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=fnozoszzt>
+fnozoszzt <name/fnozoszzt> (S, L) (5633 B)
+1100. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=TigerSun>
+TigerSun <name/TigerSun> (S, L) (1300 B)
+1103. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ffjiang>
+ffjiang <name/ffjiang> (S, L) (628 B)
+1111. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=thaghost>
+thaghost <name/thaghost> (S, L) (1435 B)
+1126. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Protoss>
+Protoss <name/Protoss> (S, L) (1787 B)
+1129. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Huangry>
+Huangry <name/Huangry> (S, L) (1644 B)
+1132. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=A.Araghian>
+A.Araghian <name/A.Araghian> (S, L) (2656 B)
+1145. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ObjectiveH>
+ObjectiveH <name/ObjectiveH> (S, L) (760 B)
+1146. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=kutts>
+kutts <name/kutts> (S, L) (1150 B)
+1153. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=jz5003>
+jz5003 <name/jz5003> (S, L) (1332 B)
+1157. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=aminjam>
+aminjam <name/aminjam> (S, L) (4519 B)
+1163. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=cyon>
+cyon <name/cyon> (S, L) (1508 B)
+1164. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=TGCodeJame>
+TGCodeJame <name/TGCodeJame> (S, L) (2043 B)
+1165. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=adrien.couque>
+adrien.couque <name/adrien.couque> (S, L) (2092 B)
+1167. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Dusty>
+Dusty <name/Dusty> (S, L) (1192 B)
+1175. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Khabat95>
+Khabat95 <name/Khabat95> (S, L) (1435 B)
+1178. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=ocozalp>
+ocozalp <name/ocozalp> (S, L) (1465 B)
+1192. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=katalma>
+katalma <name/katalma> (S, L) (2586 B) 	1193. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=vanchope>
+vanchope <name/vanchope> (S, L) (13187 B)
+1204. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=michal.pise>
+michal.pise <name/michal.pise> (S, L) (859 B)
+1214. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=tare2>
+tare2 <name/tare2> (S, L) (1068 B)
+1224. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=marin.georgiev>
+marin.georgiev <name/marin.georgiev> (S, L) (796 B)
+1243. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Vojta>
+Vojta <name/Vojta> (S, L)
+1245. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Gedl>
+Gedl <name/Gedl> (S, L) (1409 B)
+1254. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=SeanLee>
+SeanLee <name/SeanLee> (S, L) (2344 B)
+1279. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Yokipi>
+Yokipi <name/Yokipi> (S, L) (1116 B)
+1280. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=candybonn>
+candybonn <name/candybonn> (S, L) (3543 B)
+1282. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=aladdin3>
+aladdin3 <name/aladdin3> (S, L) (5059 B)
+1284. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=LawrenceB>
+LawrenceB <name/LawrenceB> (S, L) (1736 B)
+1285. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=tsuyo>
+tsuyo <name/tsuyo> (S, L) (1326 B)
+1288. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=FrelonQuai>
+FrelonQuai <name/FrelonQuai> (S, L) (3109 B)
+1291. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=prozect>
+prozect <name/prozect> (S, L) (1242 B)
+1292. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=sokamura>
+sokamura <name/sokamura> (S, L) (738 B)
+1293. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Nesszors>
+Nesszors <name/Nesszors> (S, L) (1506 B)
+1305. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=alemar>
+alemar <name/alemar> (S, L) (1952 B)
+1318. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=UltraSuperboy>
+UltraSuperboy <name/UltraSuperboy> (S, L) (2259 B)
+1319. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=TheCoffee>
+TheCoffee <name/TheCoffee> (S, L) (1880 B)
+1326. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=luc4sdreyer>
+luc4sdreyer <name/luc4sdreyer> (S, L) (6426 B)
+1337. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Xiaofan168>
+Xiaofan168 <name/Xiaofan168> (S, L) (1774 B)
+1341. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=maniau>
+maniau <name/maniau> (S, L) (1341 B)
+1354. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=Ifni>
+Ifni <name/Ifni> (S, L) (2693 B)
+1357. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=sv.91.>
+sv.91. <name/sv.91.> (S, L) (1481 B)
+1361. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=1&username=a.korneev>
+a.korneev <name/a.korneev> (S, L) (1627 B)
+
+3920. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=songhyac>
+songhyac <name/songhyac> (S) (1265 B)
+3922. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=mpol525>
+mpol525 <name/mpol525> (S)
+3931. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=kml>
+kml <name/kml> (S) (739 B)
+3935. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Taghi>
+Taghi <name/Taghi> (S) (1679 B)
+3943. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=jolley>
+jolley <name/jolley> (S) (1599 B)
+3945. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=venkateshp>
+venkateshp <name/venkateshp> (S) (1074 B)
+3949. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=usamao>
+usamao <name/usamao> (S) (3593 B)
+3950. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Risheek>
+Risheek <name/Risheek> (S) (1729 B)
+3960. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=overnite.runner>
+overnite.runner <name/overnite.runner> (S) (1762 B)
+3965. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Powermeep>
+Powermeep <name/Powermeep> (S)
+3969. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=sergiobonfiglio>
+sergiobonfiglio <name/sergiobonfiglio> (S) (2458 B)
+3976. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=JHelena>
+JHelena <name/JHelena> (S) (1544 B)
+3985. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=djjeff>
+djjeff <name/djjeff> (S) (2312 B)
+3997. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=321irshsay>
+321irshsay <name/321irshsay> (S) (831 B)
+4005. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=pathi108>
+pathi108 <name/pathi108> (S) (1776 B)
+4009. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=unda91>
+unda91 <name/unda91> (S) (3208 B)
+4010. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=pieslinger>
+pieslinger <name/pieslinger> (S) (936 B)
+4024. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=arthurnw>
+arthurnw <name/arthurnw> (S) (1644 B)
+4030. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=kshen>
+kshen <name/kshen> (S) (2202 B)
+4032. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=kingfaj>
+kingfaj <name/kingfaj> (S) (1902 B)
+4036. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Cev>
+Cev <name/Cev> (S)
+4045. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=kuklaolga>
+kuklaolga <name/kuklaolga> (S) (1319 B) 	4059. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Mishgun>
+Mishgun <name/Mishgun> (S) (1849 B)
+4062. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Sathvik>
+Sathvik <name/Sathvik> (S) (2112 B)
+4066. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=oscariano>
+oscariano <name/oscariano> (S) (3733 B)
+4074. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=adriang>
+adriang <name/adriang> (S) (3389 B)
+4076. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=justPassingBy>
+justPassingBy <name/justPassingBy> (S) (1817 B)
+4083. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=MaCchli>
+MaCchli <name/MaCchli> (S) (1470 B)
+4086. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=mgemaakbar>
+mgemaakbar <name/mgemaakbar> (S) (3363 B)
+4088. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=zing>
+zing <name/zing> (S) (2266 B)
+4090. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Rima>
+Rima <name/Rima> (S) (1290 B)
+4091. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=dhwanil66>
+dhwanil66 <name/dhwanil66> (S) (1075 B)
+4093. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=felipernb>
+felipernb <name/felipernb> (S) (912 B)
+4097. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=IAmWave>
+IAmWave <name/IAmWave> (S)
+4098. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=SuperDupont>
+SuperDupont <name/SuperDupont> (S) (4149 B)
+4102. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=40R15T3>
+40R15T3 <name/40R15T3> (S) (1486 B)
+4104. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=pakon>
+pakon <name/pakon> (S) (1099 B)
+4106. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=mohamed.bouchnafa>
+mohamed.bouchnafa <name/mohamed.bouchnafa> (S) (2548 B)
+4107. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=PersonalSandwich>
+PersonalSandwich <name/PersonalSandwich> (S) (1349 B)
+4110. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=StormBringer90>
+StormBringer90 <name/StormBringer90> (S) (1929 B)
+4123. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=kldp>
+kldp <name/kldp> (S) (1134 B)
+4125. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=marims>
+marims <name/marims> (S) (5100 B)
+4132. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=sanoajul>
+sanoajul <name/sanoajul> (S) (1436 B)
+4135. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Protagoras>
+Protagoras <name/Protagoras> (S) (2704 B) 	4148. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=facunlk>
+facunlk <name/facunlk> (S) (1129 B)
+4149. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Plu>
+Plu <name/Plu> (S)
+4153. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Tzai.Min.Jou>
+Tzai.Min.Jou <name/Tzai.Min.Jou> (S) (1683 B)
+4157. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=jarg>
+jarg <name/jarg> (S) (2206 B)
+4160. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Jollyhorse>
+Jollyhorse <name/Jollyhorse> (S) (1629 B)
+4176. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=devon>
+devon <name/devon> (S) (1615 B)
+4179. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=saadalf>
+saadalf <name/saadalf> (S) (1922 B)
+4189. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=akkz>
+akkz <name/akkz> (S) (1338 B)
+4189. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=nchouhan>
+nchouhan <name/nchouhan> (S) (2856 B)
+4192. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Parth12>
+Parth12 <name/Parth12> (S) (1601 B)
+4198. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=sandeshsingh>
+sandeshsingh <name/sandeshsingh> (S) (1628 B)
+4201. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=safaOzturk>
+safaOzturk <name/safaOzturk> (S) (1907 B)
+4202. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=bhawikjain>
+bhawikjain <name/bhawikjain> (S) (2553 B)
+4207. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Utsav15>
+Utsav15 <name/Utsav15> (S) (1583 B)
+4214. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=kandarp>
+kandarp <name/kandarp> (S) (1583 B)
+4215. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Lekic>
+Lekic <name/Lekic> (S) (1676 B)
+4215. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Renegade403>
+Renegade403 <name/Renegade403> (S) (2425 B)
+4217. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=the.seeker>
+the.seeker <name/the.seeker> (S) (3789 B)
+4220. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=RobertBerta>
+RobertBerta <name/RobertBerta> (S) (2181 B)
+4221. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=sn1914>
+sn1914 <name/sn1914> (S) (937 B)
+4224. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Vladimir87>
+Vladimir87 <name/Vladimir87> (S) (3366 B)
+4225. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Sparta>
+Sparta <name/Sparta> (S) (1802 B) 	4228. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=PrimozGodec>
+PrimozGodec <name/PrimozGodec> (S) (1146 B)
+4229. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Semantyc>
+Semantyc <name/Semantyc> (S) (3953 B)
+4233. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=lpx1989>
+lpx1989 <name/lpx1989> (S) (2173 B)
+4234. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=tlulu>
+tlulu <name/tlulu> (S) (1295 B)
+4247. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=zgod>
+zgod <name/zgod> (S) (1365 B)
+4249. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=ybbkrishna>
+ybbkrishna <name/ybbkrishna> (S) (1186 B)
+4255. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=tochi>
+tochi <name/tochi> (S) (1209 B)
+4258. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=MatthewBee>
+MatthewBee <name/MatthewBee> (S) (1918 B)
+4267. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=naimash>
+naimash <name/naimash> (S) (1653 B)
+4272. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=miraclecj>
+miraclecj <name/miraclecj> (S) (1069 B)
+4274. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=shuboid>
+shuboid <name/shuboid> (S) (847 B)
+4282. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=SONI>
+SONI <name/SONI> (S) (839 B)
+4283. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=pshiryaev>
+pshiryaev <name/pshiryaev> (S) (2336 B)
+4284. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=mostafa22>
+mostafa22 <name/mostafa22> (S) (3501 B)
+4298. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=CounterLogicKid>
+CounterLogicKid <name/CounterLogicKid> (S) (2476 B)
+4302. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=QSH>
+QSH <name/QSH> (S) (2806 B)
+4305. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=Linco69>
+Linco69 <name/Linco69> (S) (2697 B)
+4307. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=116>
+116 <name/116> (S) (2774 B)
+4309. download
+<http://code.google.com/codejam/contest/scoreboard/do?cmd=GetSourceCode&contest=3004486&problem=5706278382862336&io_set_id=0&username=vikas.patel>
+vikas.patel <name/vikas.patel> (S) (2869 B)
+
+1–100 </jam/14/solutions/3/1/Java#page-0> 101–200
+</jam/14/solutions/3/1/Java#page-1> 201–300
+</jam/14/solutions/3/1/Java#page-2> 301–400
+</jam/14/solutions/3/1/Java#page-3> 401–500
+</jam/14/solutions/3/1/Java#page-4> 501–600
+</jam/14/solutions/3/1/Java#page-5> 601–685
+</jam/14/solutions/3/1/Java#page-6>
+All contests:
+
+  * 2008 </jam/08>
+  * 2009 </jam/09>
+  * 2010 </jam/10>
+  * 2011 </jam/11>
+  * 2012 </jam/12>
+  * 2013 </jam/13>
+  * 2014 </jam/14>

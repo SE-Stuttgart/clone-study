@@ -1,3 +1,7 @@
+/*
+* @author Jan
+*/
+
 import java.util.List;
 import java.util.Locale;
 import java.io.BufferedOutputStream;
