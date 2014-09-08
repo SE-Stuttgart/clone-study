@@ -1,3 +1,7 @@
+package data;
+/**
+ * author Jan
+ */
 import java.util.ArrayList;
 import java.util.List;
 

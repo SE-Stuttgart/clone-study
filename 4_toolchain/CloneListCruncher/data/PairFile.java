@@ -1,3 +1,8 @@
+package data;
+/**
+ * 
+ * @author jan
+ */
 public class PairFile {
 
 	public String fileName;

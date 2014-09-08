@@ -1,3 +1,8 @@
+/**
+ * Data structure for a clone
+ * @author Ivan
+ */
+package data;
 import java.io.Serializable;
 
 public class Clone implements Serializable {

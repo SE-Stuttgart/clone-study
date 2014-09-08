@@ -1,5 +1,11 @@
+/*
+ * @author Jan
+ */
+package test;
 
-public class Tester {
+import control.MethodParser;
+
+public class TestMethodParser {
 
 	/**
 	 * @param args

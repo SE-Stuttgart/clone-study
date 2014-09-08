@@ -1,3 +1,4 @@
+package reportAnalyzer;
 /*
 * @author Jan
 */
@@ -18,7 +19,12 @@ import java.io.ObjectOutputStream;
 import java.io.OutputStream;
 import java.util.ArrayList;
 
-public class Cruncher {
+import data.Clone;
+import data.CloneData;
+import data.Pair;
+import data.PairFile;
+
+public class DeckardReportAnalyzer {
 
 	static final String TOPFOLDER = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/";
 	static final String filenameType1and2 = "post_cluster_vdb_23_0_allg_1.0_30";

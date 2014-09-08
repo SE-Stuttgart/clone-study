@@ -1,3 +1,4 @@
+package reportAnalyzer;
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
@@ -19,7 +20,11 @@ import java.util.Map;
 import java.util.Set;
 import java.util.HashSet;
 
-public class cccdReportAnalyzer {
+import control.MethodParser;
+import data.Clone;
+import data.CloneData;
+
+public class CccdReportAnalyzer {
 
 	// maximum number of solutions
 	final static int MAXSOLUTIONS = 14;
@@ -502,7 +507,7 @@ public class cccdReportAnalyzer {
 	}
 
 	// constructor
-	public cccdReportAnalyzer() {
+	public CccdReportAnalyzer() {
 		// init table
 		for (int i = 0; i < SAMPLESIZE+1; i++) {
 			for (int j = 0; j < SAMPLESIZE+1; j++) {
@@ -568,7 +573,7 @@ public class cccdReportAnalyzer {
 		for (int solutionSetNumber = 1; solutionSetNumber <= MAXSOLUTIONS; solutionSetNumber++) {
 
 			// initialize
-			cccdReportAnalyzer cra = new cccdReportAnalyzer();
+			CccdReportAnalyzer cra = new CccdReportAnalyzer();
 			log("--- cccdReportAnalyzer started for solution no. " + solutionSetNumber + " ---");
 
 			// read a cccd report, analyze the results and save the results as csv

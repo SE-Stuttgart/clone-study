@@ -1,3 +1,4 @@
+package control;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
@@ -5,8 +6,11 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 
+import data.Clone;
+import data.CloneData;
 
-public class CloneDataDeserializer {
+
+public class Deserializer {
 
 	// local paths to the serialization files
 	static String inputFile1 = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-results/conqat/conqatDataC.ser";
