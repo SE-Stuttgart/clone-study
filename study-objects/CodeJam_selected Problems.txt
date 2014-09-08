@@ -1,0 +1,64 @@
+
+For C
+
+01 Round1 2014 „Part Elf“
+http://www.go-hero.net/jam/14/solutions/3/1/C#page-1
+02 Round1 2012 „Password Problem“
+http://www.go-hero.net/jam/12/solutions/1/1/C#page-1
+03 Round1 2013 „Osmos“
+http://www.go-hero.net/jam/13/solutions/2/1/C#page-1
+04 Round1 2013 „Consonants“
+http://www.go-hero.net/jam/13/solutions/3/1/C#page-1
+05 Round1 2011 „Perfect Harmony“
+http://www.go-hero.net/jam/11/solutions/3/3/C#page-1
+06 Round1 2011 „RPI“
+http://www.go-hero.net/jam/11/solutions/2/1/C#page-1
+07 Round1 2008 „Text Messaging Outrage“
+http://www.go-hero.net/jam/08/solutions/3/1/C
+08 QRound 2010 „Theme Park“
+http://www.go-hero.net/jam/10/solutions/0/3/C#page-4
+09 Round1 2014	„The Repeater“
+http://www.go-hero.net/jam/14/solutions/2/1/C#page-1
+10 QRound 2012 „Dancing with Googlers“
+http://www.go-hero.net/jam/12/solutions/0/2/C#page-6
+11 QRound 2012 „Recycled Numbers“
+http://www.go-hero.net/jam/12/solutions/0/3/C#page-5
+12 Round1 2011 „FreeCell Statistics“
+http://www.go-hero.net/jam/11/solutions/1/1/C#page-1
+13 Round1 2010 „Rope Intranet“
+http://www.go-hero.net/jam/10/solutions/3/1/C#page-1
+14 QRound 2009 „Alien Language“
+http://www.go-hero.net/jam/09/solutions/0/1/C#page-3
+
+For Java
+
+01 Round2 2013 „Ticket Swapping“
+http://www.go-hero.net/jam/13/solutions/4/1/Java#page-2
+02 Round2 2010 „World Cup 2010“
+http://www.go-hero.net/jam/10/solutions/4/2/Java#page-1
+03 Round1 2012 „Box Factory“
+http://www.go-hero.net/jam/12/solutions/3/3/Java#page-1
+04 Round2 2012 „Swinging Wild“
+http://www.go-hero.net/jam/12/solutions/4/1/Java
+05 Round2 2014 „Up and Down“
+http://www.go-hero.net/jam/14/solutions/4/2/Java#page-2
+06 Round1 2014 „Charging Chaos“
+http://www.go-hero.net/jam/14/solutions/1/1/Java#page-5
+07 Round1 2013 „The Great Wall“
+http://www.go-hero.net/jam/13/solutions/3/3/Java#page-1
+08 Round1 2013 „Pogo“
+http://www.go-hero.net/jam/13/solutions/3/2/Java#page-4
+09 Round2 2013 „Many Prizes“
+http://www.go-hero.net/jam/13/solutions/4/2/Java#page-1
+10 Round1 2011 „Space Emergency“
+http://www.go-hero.net/jam/11/solutions/3/2/Java#page-2
+11 Round1 2011 „Revenge of the Hot Dogs“
+http://www.go-hero.net/jam/11/solutions/2/2/Java#page-1
+12 Round2 2010 „Bacteria“
+http://www.go-hero.net/jam/10/solutions/4/3/Java#page-1
+13 Round1 2010 „Picking Up Chicks“
+http://www.go-hero.net/jam/10/solutions/2/2/Java#page-2
+14 Round1 2009 „Center of Mass“ 
+http://www.go-hero.net/jam/09/solutions/3/2/Java#page-1
+
+
