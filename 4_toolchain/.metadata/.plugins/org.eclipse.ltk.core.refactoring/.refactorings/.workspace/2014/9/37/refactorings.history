@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;CloneListCruncher&apos;" deleteContents="false" description="Delete resource &apos;CloneListCruncher&apos;" element1="/CloneListCruncher" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1410171568620"/>
-</session>
