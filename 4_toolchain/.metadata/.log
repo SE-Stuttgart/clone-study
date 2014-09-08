@@ -1,0 +1,23 @@
+!SESSION 2014-09-08 12:12:27.995 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_06
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/ivan/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/ivan/Documents/Projekte/2014_GitHub_CloneStudy/5_toolchain -product org.eclipse.epp.package.jee.product -keyring /Users/ivan/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-09-08 12:12:34.553
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-09-08 12:18:45.788 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_06
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/ivan/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/ivan/Documents/Projekte/2014_GitHub_CloneStudy/4_toolchain -product org.eclipse.epp.package.jee.product -keyring /Users/ivan/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-09-08 12:18:48.340
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2014-09-08 12:18:56.068
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

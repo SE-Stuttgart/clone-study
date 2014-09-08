@@ -1,0 +1,27 @@
+INDEX VERSION 1.126+/Users/ivan/Documents/Projekte/2014_GitHub_CloneStudy/4_toolchain/.metadata/.plugins/org.eclipse.jdt.core
+672732383.index
+3229377894.index
+3569674952.index
+1024803094.index
+3712507179.index
+1271342938.index
+3302703152.index
+1833648217.index
+2389264668.index
+4238209716.index
+53443930.index
+1810029068.index
+1819685514.index
+1798820246.index
+3266567714.index
+4225000326.index
+2438936177.index
+3635307755.index
+4288481780.index
+2954523726.index
+1384487945.index
+1017394602.index
+2044311975.index
+2545238116.index
+156905802.index
+3321539481.index
