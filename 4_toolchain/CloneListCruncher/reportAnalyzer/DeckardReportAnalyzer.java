@@ -20,13 +20,13 @@ import java.io.OutputStream;
 import java.util.ArrayList;
 
 import data.Clone;
-import data.CloneData;
 import data.Pair;
 import data.PairFile;
 
 public class DeckardReportAnalyzer extends ReportAnalyzer {
 
-	static final String TOPFOLDER = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/";
+
+/*	static final String TOPFOLDER = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/";
 	static final String filenameType1and2 = "post_cluster_vdb_23_0_allg_1.0_30";
 	static final String filenameType3 = "post_cluster_vdb_23_0_allg_0.95_30";
 	static boolean isJava = false;
@@ -291,7 +291,7 @@ public class DeckardReportAnalyzer extends ReportAnalyzer {
 					file2Count));
 			while ((read = reader.readLine()) != null) {
 				if (skip) {
-					read.endsWith("*/");
+					read.endsWith("* /"); FIXME: remove space
 					skip = false;
 				}
 				if (read.startsWith("/*") && lines == 0) {
@@ -516,6 +516,18 @@ public class DeckardReportAnalyzer extends ReportAnalyzer {
 		System.out.println("Done.");
 	}
 
+*/
+	
+	@Override
+	public List<Clone> analyzeSolutionSetReport(String language, int solutionSet) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
+	@Override
+	public String getToolName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 }

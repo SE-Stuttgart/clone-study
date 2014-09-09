@@ -28,7 +28,7 @@ import data.Clone;
 
 public class CccdReportAnalyzer extends ReportAnalyzer {
 
-	// maximum number of allowed leveshtein distance so that the clone is accepted
+/*	// maximum number of allowed leveshtein distance so that the clone is accepted
 	final static int MAXLEVENSHTEIN = 35;
 
 	// number of lines to ignore at the beginning of a source file when rating for full/partial
@@ -547,9 +547,16 @@ public class CccdReportAnalyzer extends ReportAnalyzer {
 		// writes all clone data to a serialized file;
 		serializeCloneData();
 	}
+*/
 
 	@Override
-	public List<Clone> analyzeReports(String reportFolder) {
+	public List<Clone> analyzeSolutionSetReport(String language, int solutionSet) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getToolName() {
 		// TODO Auto-generated method stub
 		return null;
 	}
