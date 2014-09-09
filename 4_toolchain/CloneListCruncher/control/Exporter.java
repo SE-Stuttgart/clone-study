@@ -109,7 +109,7 @@ public class Exporter {
 
 					try {
 						exportSingleCloneTable("clone-analysis-full.csv", tool, language, solutionSet, true);
-						exportSingleCloneTable("clone-analysis-partial.csv", tool, language, solutionSet, false);
+						exportSingleCloneTable("clone-analysis-part.csv", tool, language, solutionSet, false);
 					} catch (IOException e) {
 						e.printStackTrace();
 					}
@@ -161,7 +161,6 @@ public class Exporter {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
 
 	}
 
