@@ -12,8 +12,8 @@ public class CloneListCruncher {
 
 	// path to local folders
 	public final static String SOURCEFOLDER = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects";
-	public final static String REPORTFOLDER = ".." + File.separator + "3_cloning_reports";
-	public final static String EXPORTFOLDER = ".." + File.separator + "5_toolchain-output";
+	public final static String REPORTFOLDER = "/Users/ivan/Documents/Projekte/2014_GitHub_CloneStudy/3_cloning-reports";
+	public final static String EXPORTFOLDER = "/Users/ivan/Documents/Projekte/2014_GitHub_CloneStudy/5_toolchain-output";
 
 	// size parameters
 	public final static int MAXSOLUTIONSET = 14; // maximum number of solution sets

@@ -23,7 +23,7 @@ public class Exporter {
 		try {
 			BufferedWriter exportWriter = new BufferedWriter(new FileWriter(exportFile));
 			for (Clone clone : cloneList) {
-				if (clone.getCloneCoverage().equalsIgnoreCase("FULL") == isFull
+				if (clone.isFull() == isFull
 						&& (language.equalsIgnoreCase("ALL") || clone.getLanguage().equalsIgnoreCase(language))) {
 					String line = "";
 					line += clone.getLanguage().toLowerCase() + ",";
@@ -56,13 +56,14 @@ public class Exporter {
 
 	private void exportSingleCloneTable(String fileNameSuffix, String tool, String language,
 			int solutionSet, boolean isFull) throws IOException {
-		Log.info("\nstarting csv export");
+		Log.info("starting csv export");
 
 		// get correct clone table
-		CloneTable ct = cloneTables.get(combineKeys(tool, language, solutionSet, isFull?"f":"p"));
+		CloneTable ct = cloneTables.get(combineKeys(tool, language, solutionSet, isFull));
 
 		// file init
-		String exportPath = EXPORTFOLDER + File.separator + language + "_" + solutionSet + "_" + fileNameSuffix; 
+		String exportPath = EXPORTFOLDER + File.separator + tool + File.separator
+				+ language + "_" + solutionSet + "_" + fileNameSuffix; 
 		File csvFile = new File(exportPath);
 		BufferedWriter csv = new BufferedWriter(new FileWriter(csvFile));
 
@@ -134,23 +135,24 @@ public class Exporter {
 			for (String key : cloneTables.keySet()) {
 				CloneTable ct = cloneTables.get(key);
 				for (int metricNumber = 2; metricNumber <= 4; metricNumber++) {
-					String line = key.substring(0, key.length()-3); // "part"->"p", "full"->"f"
+					String line = key;
 					double metricValue = -1;
 					switch (metricNumber) {
 					case 2:
-						key += "12;";
+						line += "12;";
 						metricValue = ct.recall12;
 						break;
 					case 3:
-						key += "123;";
+						line += "123;";
 						metricValue = ct.recall123;
 						break;
 					case 4:
-						key += "1234;";
+						line += "1234;";
 						metricValue = ct.recall1234;
 						break;
 					}
-					key += String.format(Locale.ENGLISH, "%f", metricValue) + "\n";
+					line += String.format(Locale.ENGLISH, "%f", metricValue) + "\n";
+					csvRecall.write(line);
 				}
 			}
 

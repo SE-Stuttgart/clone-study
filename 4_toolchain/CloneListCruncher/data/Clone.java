@@ -21,9 +21,10 @@ public class Clone {
 	private int rightCloneStartline;
 	private int rightCloneEndline;
 
-	// coverage can be "FULL" or "PART"
-	private String cloneCoverage;
+	// whether this clone covers both files totally
+	private boolean isFull;
 	
+	// number of clone type (1-4)
 	private int cloneType;
 	
 	// getter
@@ -60,8 +61,8 @@ public class Clone {
 		return rightCloneEndline;
 	}
 
-	public String getCloneCoverage() {
-		return cloneCoverage;
+	public boolean isFull() {
+		return isFull;
 	}
 
 	public int getCloneType() {
@@ -77,7 +78,7 @@ public class Clone {
 	// constructor
 	public Clone(String language, int solutionSetNumber, int leftCloneFileNumber, int leftCloneStartline,
 		int leftCloneEndline, int rightCloneFileNumber, int rightCloneStartline,
-		int rightCloneEndline, String cloneCoverage, int cloneType) {
+		int rightCloneEndline, boolean isFull, int cloneType) {
 		
 		this.language = language;
 		this.solutionSetNumber = solutionSetNumber;
@@ -87,7 +88,7 @@ public class Clone {
 		this.rightCloneFileNumber = rightCloneFileNumber;
 		this.rightCloneStartline = rightCloneStartline;
 		this.rightCloneEndline = rightCloneEndline;
-		this.cloneCoverage = cloneCoverage;
+		this.isFull = isFull;
 		this.cloneType = cloneType;
 		
 	}

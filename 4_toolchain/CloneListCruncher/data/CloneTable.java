@@ -58,9 +58,9 @@ public class CloneTable {
 			for (String language : LANGUAGES) {
 				for (int solutionSet = 1; solutionSet <= MAXSOLUTIONSET; solutionSet++) {
 					// table for full clones
-					cloneTables.put(combineKeys(tool, language, solutionSet, "full"), new CloneTable());
+					cloneTables.put(combineKeys(tool, language, solutionSet, true), new CloneTable());
 					// table for partial clones
-					cloneTables.put(combineKeys(tool, language, solutionSet, "part"), new CloneTable());
+					cloneTables.put(combineKeys(tool, language, solutionSet, false), new CloneTable());
 				}
 			}
 		}	
@@ -73,10 +73,10 @@ public class CloneTable {
 				for (int solutionSet = 1; solutionSet <= MAXSOLUTIONSET; solutionSet++) {
 					CloneTable ct;
 					// recalls for full clone table
-					ct = cloneTables.get(combineKeys(tool, language, solutionSet, "full"));
+					ct = cloneTables.get(combineKeys(tool, language, solutionSet, true));
 					ct.calcRecall();
 					// recalls for partial clone table
-					ct = cloneTables.get(combineKeys(tool, language, solutionSet, "part"));
+					ct = cloneTables.get(combineKeys(tool, language, solutionSet, false));
 					ct.calcRecall();
 				}
 			}

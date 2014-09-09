@@ -23,7 +23,7 @@ public abstract class ReportAnalyzer {
 		}
 
 		// finalize
-		Log.info("--- ReportAnalyzer for " + getToolName() + " ended ---\n");
+		Log.info("\n--- ReportAnalyzer for " + getToolName() + " ended ---\n");
 	}
 
 	public abstract List<Clone> analyzeSolutionSetReport(String language, int solutionSet);
