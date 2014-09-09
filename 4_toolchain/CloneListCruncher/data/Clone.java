@@ -3,97 +3,92 @@
  * @author Ivan
  */
 package data;
-import java.io.Serializable;
 
-public class Clone implements Serializable {
+public class Clone {
 
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = -2709203572650627631L;
-
-
-	@SuppressWarnings("unused")
-	private Clone() {
-		
-	}
-	
 	// language can be "JAVA" or "C"
 	private String language;
 	
 	private int solutionSetNumber;
 
-	// data of first file in clone 
-	private int firstCloneFileNumber;
-	private int firstCloneStartline;
-	private int firstCloneEndline;
+	// data of first (left) file in clone 
+	private int leftCloneFileNumber;
+	private int leftCloneStartline;
+	private int leftCloneEndline;
 
-	// data of second file in clone
-	private int secondCloneFileNumber;
-	private int secondCloneStartline;
-	private int secondCloneEndline;
+	// data of second (right) file in clone
+	private int rightCloneFileNumber;
+	private int rightCloneStartline;
+	private int rightCloneEndline;
 
 	// coverage can be "FULL" or "PART"
 	private String cloneCoverage;
 	
 	private int cloneType;
 	
+	// getter
 	
+	public String getLanguage() {
+		return language;
+	}
+
 	public int getSolutionSetNumber() {
 		return solutionSetNumber;
 	}
 
-	public int getFirstCloneFileNumber() {
-		return firstCloneFileNumber;
+	public int getLeftCloneFileNumber() {
+		return leftCloneFileNumber;
 	}
 
-	public int getFirstCloneStartline() {
-		return firstCloneStartline;
+	public int getLeftCloneStartline() {
+		return leftCloneStartline;
 	}
 
-	public int getFirstCloneEndline() {
-		return firstCloneEndline;
+	public int getLeftCloneEndline() {
+		return leftCloneEndline;
 	}
 
-	public int getSecondCloneFileNumber() {
-		return secondCloneFileNumber;
+	public int getRightCloneFileNumber() {
+		return rightCloneFileNumber;
 	}
 
-	public int getSecondCloneStartline() {
-		return secondCloneStartline;
+	public int getRightCloneStartline() {
+		return rightCloneStartline;
 	}
 
-	public int getSecondCloneEndline() {
-		return secondCloneEndline;
+	public int getRightCloneEndline() {
+		return rightCloneEndline;
+	}
+
+	public String getCloneCoverage() {
+		return cloneCoverage;
 	}
 
 	public int getCloneType() {
 		return cloneType;
 	}
 	
+	// private empty constructor
+	@SuppressWarnings("unused")
+	private Clone() {
+		
+	}
+	
 	// constructor
-	public Clone(String language, int solutionSetNumber, int firstCloneFileNumber, int firstCloneStartline,
-		int firstCloneEndline, int secondCloneFileNumber, int secondCloneStartline,
-		int secondCloneEndline, String cloneCoverage, int cloneType) {
+	public Clone(String language, int solutionSetNumber, int leftCloneFileNumber, int leftCloneStartline,
+		int leftCloneEndline, int rightCloneFileNumber, int rightCloneStartline,
+		int rightCloneEndline, String cloneCoverage, int cloneType) {
 		
 		this.language = language;
 		this.solutionSetNumber = solutionSetNumber;
-		this.firstCloneFileNumber = firstCloneFileNumber;
-		this.firstCloneStartline = firstCloneStartline;
-		this.firstCloneEndline = firstCloneEndline;
-		this.secondCloneFileNumber = secondCloneFileNumber;
-		this.secondCloneStartline = secondCloneStartline;
-		this.secondCloneEndline = secondCloneEndline;
+		this.leftCloneFileNumber = leftCloneFileNumber;
+		this.leftCloneStartline = leftCloneStartline;
+		this.leftCloneEndline = leftCloneEndline;
+		this.rightCloneFileNumber = rightCloneFileNumber;
+		this.rightCloneStartline = rightCloneStartline;
+		this.rightCloneEndline = rightCloneEndline;
 		this.cloneCoverage = cloneCoverage;
 		this.cloneType = cloneType;
 		
-	}
-
-	public String getLanguage() {
-		return language;
-	}
-
-	public String getCloneCoverage() {
-		return cloneCoverage;
 	}
 }

@@ -1,4 +1,6 @@
 package reportAnalyzer;
+import static control.CloneListCruncher.*;
+
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
@@ -15,6 +17,7 @@ import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;
 import java.io.OutputStream;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
@@ -22,13 +25,8 @@ import java.util.HashSet;
 
 import control.MethodParser;
 import data.Clone;
-import data.CloneData;
 
-public class CccdReportAnalyzer {
-
-	// maximum number of solutions
-	final static int MAXSOLUTIONS = 14;
-	//final static int MAXSOLUTIONS = 1;
+public class CccdReportAnalyzer extends ReportAnalyzer {
 
 	// maximum number of allowed leveshtein distance so that the clone is accepted
 	final static int MAXLEVENSHTEIN = 35;
@@ -37,21 +35,8 @@ public class CccdReportAnalyzer {
 	// the number of starting lines is additionally calculated dynamically (by method countStartingLines)
 	final static int FULLCLONE_FILEBEGIN_TOLERANCE = 8;
 
-	// number of lines to ignore between twi functions of a source file when rating for full/partial 
+	// number of lines to ignore between two functions of a source file when rating for full/partial 
 	final static int FULLCLONE_BETWEENFUNC_TOLERANCE = 8;
-
-	// local path to the cccd results folder
-	static String inputFolder = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-results/CCCD";
-
-	// local path to the study objects
-	static String sourceFolder = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC";
-
-	// local paths to the serialization files (results of the other tools)
-	static String inputFile1 = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-results/conqat/conqatDataC.ser";
-	static String inputFile3 = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/CruncherResults/deckardDataC.ser";
-
-	// number of solutions per study object
-	final int SAMPLESIZE = 100;
 
 	// clone table: rows and columns are solutions (files);
 	private int[][] tableP = new int[SAMPLESIZE+1][SAMPLESIZE+1]; // for partial clones
@@ -65,31 +50,15 @@ public class CccdReportAnalyzer {
 	private double recallF123 = 0;
 	private double recallF1234 = 0;
 
-	// list of all clone data of all solution sets (only needed for exported serialization file)
-	private static CloneData myCloneData = new CloneData();
-
 	// extended information about clone data (only needed for partial/full rating)
 	// every clone file pair is associated with a list if line numbers of all clones between these files
 	// the key is the filepair as String "sxf1xf2" with solutions number s, filenumber f1 and filenumber f2
 	private static Map<String, Set<Integer>> clonedLineNumbersLeft = new HashMap<String, Set<Integer>>();
 	private static Map<String, Set<Integer>> clonedLineNumbersRight = new HashMap<String, Set<Integer>>();
 
-	// list of the clone result of the other tools
-	private static CloneData externalCloneData = new CloneData();
-
 	// helper function to generate the key for the clonedLineNumbers map
 	private String getKey(int solutionSet, int leftFileNumber, int rightFileNumber) {
 		return solutionSet + "x" + leftFileNumber + "x" + rightFileNumber;
-	}
-
-	// prints a message to the standard output
-	private static void log(String msg) {
-		System.out.println(msg);
-	}
-
-	// prints a single star to the standard output (to show progress)
-	private static void logStar() {
-		System.out.print("*");
 	}
 
 	// helper function that counts the number of line in a file (source: http://stackoverflow.com/questions/453018/number-of-lines-in-a-file-in-java)
@@ -186,7 +155,7 @@ public class CccdReportAnalyzer {
 
 	// remember line number of that clone and add the information to the two cloneLineNumbers maps
 	private void rememberCloneLineNumbers(Clone clone) {
-		String key = getKey(clone.getSolutionSetNumber(), clone.getFirstCloneFileNumber(), clone.getSecondCloneFileNumber());
+		String key = getKey(clone.getSolutionSetNumber(), clone.getLeftCloneFileNumber(), clone.getRightCloneFileNumber());
 		// initialize sets if needed
 		if (clonedLineNumbersLeft.get(key) == null) {
 			clonedLineNumbersLeft.put(key, new HashSet<Integer>());
@@ -195,10 +164,10 @@ public class CccdReportAnalyzer {
 			clonedLineNumbersRight.put(key, new HashSet<Integer>());
 		}
 		// add all lines to the maps
-		for (int line = clone.getFirstCloneStartline(); line <= clone.getFirstCloneEndline(); line++) {
+		for (int line = clone.getLeftCloneStartline(); line <= clone.getLeftCloneEndline(); line++) {
 			clonedLineNumbersLeft.get(key).add(line);
 		}
-		for (int line = clone.getSecondCloneStartline(); line <= clone.getSecondCloneEndline(); line++) {
+		for (int line = clone.getRightCloneStartline(); line <= clone.getRightCloneEndline(); line++) {
 			clonedLineNumbersRight.get(key).add(line);
 		}
 	}
@@ -270,8 +239,8 @@ public class CccdReportAnalyzer {
 		for (Clone clone : externalCloneData.cloneList) {
 			// regard only clones within same solution set and the same file combination
 			if (solutionSetNumber != clone.getSolutionSetNumber()
-					|| cloneLeftFileName != clone.getFirstCloneFileNumber()
-					|| cloneRightFileName != clone.getSecondCloneFileNumber()) {
+					|| cloneLeftFileName != clone.getLeftCloneFileNumber()
+					|| cloneRightFileName != clone.getRightCloneFileNumber()) {
 				continue;
 			}
 			log("found same file combination in database");
@@ -280,10 +249,10 @@ public class CccdReportAnalyzer {
 			// parser that finds the line number of the methods
 			MethodParser methodParser1 = new MethodParser();
 			MethodParser methodParser2 = new MethodParser();
-			boolean isInside1 = methodParser1.isInsideBounds(cloneLeftMethodName, pathToLeftFile, clone.getFirstCloneStartline() - 2,
-					clone.getFirstCloneEndline() + 2);
-			boolean isInside2 = methodParser2.isInsideBounds(cloneRightMethodName, pathToRightFile, clone.getSecondCloneStartline() - 2,
-					clone.getSecondCloneEndline() + 2);
+			boolean isInside1 = methodParser1.isInsideBounds(cloneLeftMethodName, pathToLeftFile, clone.getLeftCloneStartline() - 2,
+					clone.getLeftCloneEndline() + 2);
+			boolean isInside2 = methodParser2.isInsideBounds(cloneRightMethodName, pathToRightFile, clone.getRightCloneStartline() - 2,
+					clone.getRightCloneEndline() + 2);
 			if (isInside1 && isInside2) {
 				type = Math.min(type, clone.getCloneType());
 				log("found a smaller clone type in database");
@@ -532,27 +501,6 @@ public class CccdReportAnalyzer {
 		}
 	}
 
-	private static void deserialize(String filename) {
-
-		try {
-			CloneData localCloneData;
-			FileInputStream fileIn = new FileInputStream(filename);
-			ObjectInputStream in = new ObjectInputStream(fileIn);
-			localCloneData = (CloneData) in.readObject();
-			in.close();
-			fileIn.close();
-			// remember all deserialized clones
-			externalCloneData.cloneList.addAll(localCloneData.cloneList);
-
-		} catch(IOException i) {
-			i.printStackTrace();
-		} catch(ClassNotFoundException c) {
-			c.printStackTrace();
-		}
-		logStar();
-
-	}
-
 	public static void main(String[] args) {
 
 		// create csv-file for recall metrices
@@ -563,11 +511,6 @@ public class CccdReportAnalyzer {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
-		// deserialize clone data from the other tools
-		deserialize(inputFile1);
-		deserialize(inputFile3);
-		log("\ndeserializing finished");
 
 		// iterate through all folder of one language
 		for (int solutionSetNumber = 1; solutionSetNumber <= MAXSOLUTIONS; solutionSetNumber++) {
@@ -603,6 +546,12 @@ public class CccdReportAnalyzer {
 
 		// writes all clone data to a serialized file;
 		serializeCloneData();
+	}
+
+	@Override
+	public List<Clone> analyzeReports(String reportFolder) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 }

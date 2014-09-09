@@ -24,7 +24,7 @@ import data.CloneData;
 import data.Pair;
 import data.PairFile;
 
-public class DeckardReportAnalyzer {
+public class DeckardReportAnalyzer extends ReportAnalyzer {
 
 	static final String TOPFOLDER = "/Users/ivan/Documents/Projekte/2014_ICSE15_Study/study-objects/GoogleCodeJamC/";
 	static final String filenameType1and2 = "post_cluster_vdb_23_0_allg_1.0_30";
@@ -59,9 +59,6 @@ public class DeckardReportAnalyzer {
 	static List<Pair> pairsT3 = new ArrayList<Pair>();
 	static CloneData clones = new CloneData();
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		if (TOPFOLDER.endsWith("C/")) {
 			isJava = false;
@@ -145,7 +142,7 @@ public class DeckardReportAnalyzer {
 									first.subObjektnumber, first.startLine,
 									first.endLine, sec.subObjektnumber,
 									sec.startLine, sec.endLine, coverage, 2);
-							clones.cloneList.add(currentClone);
+							clones.add(currentClone);
 						}
 
 					} else {
@@ -518,5 +515,7 @@ public class DeckardReportAnalyzer {
 		}
 		System.out.println("Done.");
 	}
+
+
 
 }
