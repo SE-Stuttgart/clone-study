@@ -26,12 +26,12 @@ public class Exporter {
 					String line = "";
 					line += clone.getLanguage().toLowerCase() + ",";
 					line += clone.getSolutionSetNumber() + ",";
-					line += clone.getLeftCloneFileNumber() + ",";
-					line += clone.getRightCloneFileNumber() + ",";
-					line += clone.getLeftCloneStartline() + ",";
-					line += clone.getLeftCloneEndline() + ",";
-					line += clone.getRightCloneStartline() + ",";
-					line += clone.getRightCloneEndline() + ",";					
+					line += clone.getLeftFile() + ",";
+					line += clone.getRightFile() + ",";
+					line += clone.getLeftStartline() + ",";
+					line += clone.getLeftEndline() + ",";
+					line += clone.getRightStartline() + ",";
+					line += clone.getRightEndline() + ",";					
 					line += "\n";
 					exportWriter.write(line);
 				}

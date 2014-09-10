@@ -12,63 +12,103 @@ public class Clone {
 	private int solutionSetNumber;
 
 	// data of first (left) file in clone 
-	private int leftCloneFileNumber;
-	private int leftCloneStartline;
-	private int leftCloneEndline;
+	private int leftFile;
+	private int leftStartline;
+	private int leftEndline;
 
 	// data of second (right) file in clone
-	private int rightCloneFileNumber;
-	private int rightCloneStartline;
-	private int rightCloneEndline;
+	private int rightFile;
+	private int rightStartline;
+	private int rightEndline;
 
 	// whether this clone covers both files totally
 	private boolean isFull;
 	
 	// number of clone type (1-4)
-	private int cloneType;
+	private int type;
 	
-	// getter
+	// getter and setter
 	
 	public String getLanguage() {
 		return language;
+	}
+
+	public void setLanguage(String language) {
+		this.language = language;
 	}
 
 	public int getSolutionSetNumber() {
 		return solutionSetNumber;
 	}
 
-	public int getLeftCloneFileNumber() {
-		return leftCloneFileNumber;
+	public void setSolutionSetNumber(int solutionSetNumber) {
+		this.solutionSetNumber = solutionSetNumber;
 	}
 
-	public int getLeftCloneStartline() {
-		return leftCloneStartline;
+	public int getLeftFile() {
+		return leftFile;
 	}
 
-	public int getLeftCloneEndline() {
-		return leftCloneEndline;
+	public void setLeftFile(int leftFile) {
+		this.leftFile = leftFile;
 	}
 
-	public int getRightCloneFileNumber() {
-		return rightCloneFileNumber;
+	public int getLeftStartline() {
+		return leftStartline;
 	}
 
-	public int getRightCloneStartline() {
-		return rightCloneStartline;
+	public void setLeftStartline(int leftStartline) {
+		this.leftStartline = leftStartline;
 	}
 
-	public int getRightCloneEndline() {
-		return rightCloneEndline;
+	public int getLeftEndline() {
+		return leftEndline;
+	}
+
+	public void setLeftEndline(int leftEndline) {
+		this.leftEndline = leftEndline;
+	}
+
+	public int getRightFile() {
+		return rightFile;
+	}
+
+	public void setRightFile(int rightFile) {
+		this.rightFile = rightFile;
+	}
+
+	public int getRightStartline() {
+		return rightStartline;
+	}
+
+	public void setRightStartline(int rightStartline) {
+		this.rightStartline = rightStartline;
+	}
+
+	public int getRightEndline() {
+		return rightEndline;
+	}
+
+	public void setRightEndline(int rightEndline) {
+		this.rightEndline = rightEndline;
 	}
 
 	public boolean isFull() {
 		return isFull;
 	}
 
-	public int getCloneType() {
-		return cloneType;
+	public void setFull(boolean isFull) {
+		this.isFull = isFull;
 	}
-	
+
+	public int getType() {
+		return type;
+	}
+
+	public void setType(int type) {
+		this.type = type;
+	}
+
 	// private empty constructor
 	@SuppressWarnings("unused")
 	private Clone() {
@@ -82,14 +122,16 @@ public class Clone {
 		
 		this.language = language;
 		this.solutionSetNumber = solutionSetNumber;
-		this.leftCloneFileNumber = leftCloneFileNumber;
-		this.leftCloneStartline = leftCloneStartline;
-		this.leftCloneEndline = leftCloneEndline;
-		this.rightCloneFileNumber = rightCloneFileNumber;
-		this.rightCloneStartline = rightCloneStartline;
-		this.rightCloneEndline = rightCloneEndline;
+		this.leftFile = leftCloneFileNumber;
+		this.leftStartline = leftCloneStartline;
+		this.leftEndline = leftCloneEndline;
+		this.rightFile = rightCloneFileNumber;
+		this.rightStartline = rightCloneStartline;
+		this.rightEndline = rightCloneEndline;
 		this.isFull = isFull;
-		this.cloneType = cloneType;
+		this.type = cloneType;
 		
 	}
+
+	
 }

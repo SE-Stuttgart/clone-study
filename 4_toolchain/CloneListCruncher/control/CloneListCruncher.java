@@ -24,7 +24,7 @@ public class CloneListCruncher {
 	// information about solution files and clones
 	public static SourceData sourceData = new SourceData(); // data about the source files (solution)
 	public static List<Clone> cloneList = new ArrayList<Clone>(); // a full list of all detected clones
-	public static Map<String, CloneTable> cloneTables = new HashMap<String, CloneTable>(); // combined key
+	public static Map<String, CloneTable> cloneTables = new HashMap<String, CloneTable>(); // with combined key
 
 	// initialize report analyzers and exporter
 	private ReportAnalyzer conqat = new ConqatReportAnalyzer();

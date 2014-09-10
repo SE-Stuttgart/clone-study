@@ -46,7 +46,7 @@ public class ConqatReportAnalyzer extends ReportAnalyzer {
 		int cloneRightEndLine = Integer.parseInt(cloneRight.getAttribute("endLine"));
 		int cloneLeftLength = (cloneLeftEndLine - cloneLeftStartLine);
 		int cloneRightLength = (cloneRightEndLine - cloneRightStartLine);
-		// fill clone if both clone lenghts are long enough
+		// fill clone if both clone lengths are long enough
 		int leftLength = sourceData.getFileLength(language, solutionSet, cloneLeftFileName);
 		int rightLength = sourceData.getFileLength(language, solutionSet, cloneLeftFileName);
 		// FIXME when refactoring is finished: copy&paste error in line above (should be "right")
@@ -57,7 +57,7 @@ public class ConqatReportAnalyzer extends ReportAnalyzer {
 
 		// get correct clone table
 		CloneTable ct = cloneTables.get(combineKeys(tool, language, solutionSet, isFull));
-		
+
 		// check clone type
 		String cloneLeftGap = cloneLeft.getAttribute("gaps");
 		String cloneRightGap = cloneRight.getAttribute("gaps");
@@ -71,63 +71,29 @@ public class ConqatReportAnalyzer extends ReportAnalyzer {
 		}		
 
 		// add result to table
-		if (cloneLeftFileName > cloneRightFileName) {
-			// swap indices
-			int temp = cloneRightFileName;
-			cloneRightFileName = cloneLeftFileName;
-			cloneLeftFileName = temp;
-			// swap start lines
-			temp = cloneRightStartLine;
-			cloneRightStartLine = cloneLeftStartLine;
-			cloneLeftStartLine = temp;
-			// swap end lines
-			temp = cloneRightEndLine;
-			cloneRightEndLine = cloneLeftEndLine;
-			cloneLeftEndLine = temp;
-		}
-		if (cloneLeftFileName == cloneRightFileName) {
-			// ignore clone within same file
-			return null;
-		}
-		int oldResult;
-		int newResult;
-		// overwrite old value correctly by taking the smaller one (2&2->2; 2&3->2; 3&2->2; 3&3->3)
-		oldResult = ct.table[cloneLeftFileName][cloneRightFileName];
-		if (oldResult == 0) {
-			newResult = type;
-		} else {
-			newResult = Math.min(oldResult, type);
-		}
-		// write back new value
-		ct.table[cloneLeftFileName][cloneRightFileName] = newResult;
-		Log.debug("added result table[" + cloneLeftFileName + "][" + cloneRightFileName + "]=\"" + newResult + "\"");
-
-		// remember clone in global clone data list (later needed for serialization)
-		if (oldResult != newResult) {
-			Clone clone = new Clone(language.toUpperCase(), solutionSet, cloneLeftFileName,
-					cloneLeftStartLine, cloneLeftEndLine, cloneRightFileName, cloneRightStartLine,
-					cloneRightEndLine, isFull, newResult);
-			return clone;
-		}
-		return null;
+		Clone clone = new Clone(language, solutionSet, cloneLeftFileName,
+				cloneLeftStartLine, cloneLeftEndLine, cloneRightFileName, cloneRightStartLine,
+				cloneRightEndLine, isFull, type);
+		Clone unifiedClone = addUnifiedCloneToTable(clone);
+		return unifiedClone;
 	}
 
 	// read a conqat report and analyze the results
 	@Override
 	public List<Clone> analyzeSolutionSetReport(String language, int solutionSet) {
-		
-		// show progress
-		Log.star();
-		
+
 		// the list of clones for a specific tool, language and solution set
 		List<Clone> localCloneList = new ArrayList<Clone>();
-		
+
 		// the local path to the conqat result xml
 		String inputPath = REPORTFOLDER
 				+ File.separator + getToolName()
 				+ File.separator + language
 				+ File.separator + solutionSet
 				+ File.separator + "clones-gapped.xml";
+
+		// show progress
+		Log.star();
 
 		// parse the xml file
 		File xml = new File(inputPath);
@@ -181,7 +147,7 @@ public class ConqatReportAnalyzer extends ReportAnalyzer {
 		} catch (ParserConfigurationException | SAXException | IOException e) {
 			e.printStackTrace();
 		}
-		
+
 		return localCloneList;
 	}
 
