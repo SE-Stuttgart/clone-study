@@ -28,8 +28,8 @@ public class CloneListCruncher {
 
 	// initialize report analyzers and exporter
 	private ReportAnalyzer conqat = new ConqatReportAnalyzer();
-	//private ReportAnalyzer deckard = new DeckardReportAnalyzer();
-	//private ReportAnalyzer cccd = new CccdReportAnalyzer();
+	private ReportAnalyzer deckard = new DeckardReportAnalyzer();
+	private ReportAnalyzer cccd = new CccdReportAnalyzer();
 	private Exporter exporter = new Exporter();
 
 	// reads the study objects and the cloning reports and exports accumulated reports
@@ -42,9 +42,9 @@ public class CloneListCruncher {
 		CloneTable.init();
 		
 		// 3. run analysis and add clone data to global clone list and clone tables
-		conqat.analyzeReports();
+		//conqat.analyzeReports();
 		//deckard.analyzeReports();
-		//cccd.analyzeReports();
+		cccd.analyzeReports();
 		
 		// 4. calculate the recall values
 		CloneTable.calcRecalls();

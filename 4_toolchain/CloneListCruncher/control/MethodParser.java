@@ -13,6 +13,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
+import util.Log;
+
 public class MethodParser {
 
 	static int THRESHOLD = 6;
@@ -191,7 +193,7 @@ public class MethodParser {
 
 			reader.close();
 			lastLineNumber = lineNumber;
-			System.out.println("Done fileparsing of " + lastLineNumber
+			Log.debug("Done fileparsing of " + lastLineNumber
 					+ " lines.");
 		} catch (FileNotFoundException e) {
 			System.out.println("File not found@ " + filePath);

@@ -54,7 +54,7 @@ public class Exporter {
 
 	private void exportSingleCloneTable(String fileNameSuffix, String tool, String language,
 			int solutionSet, boolean isFull) throws IOException {
-		Log.info("starting csv export");
+		Log.debug("starting csv export");
 
 		// get correct clone table
 		CloneTable ct = cloneTables.get(combineKeys(tool, language, solutionSet, isFull));
@@ -96,11 +96,12 @@ public class Exporter {
 		// close writer
 		csv.close();
 
-		Log.info("exported to " + csvFile.getAbsolutePath());
+		Log.debug("exported to " + csvFile.getAbsolutePath());
 	}
 
 	// save the results as csv
 	private void exportCloneTables() {
+		Log.info("exporting csv-files");
 		for (String tool : TOOLS) {
 			for (String language : LANGUAGES) {
 				// abort if combination has to be excluded
@@ -108,6 +109,7 @@ public class Exporter {
 					continue;
 				}
 				for (int solutionSet = 1; solutionSet <= MAXSOLUTIONSET; solutionSet++) {
+					Log.star();
 					// export table
 					try {
 						exportSingleCloneTable("clone-analysis-full.csv", tool, language, solutionSet, true);
@@ -167,9 +169,11 @@ public class Exporter {
 	}
 
 	public void exportAll() {
+		Log.info("--- Exporter startet ---");
 		exportCloneLists();
 		exportCloneTables();
 		exportRecallValues();
+		Log.info("--- Exporter ended ---");
 	}
 
 }

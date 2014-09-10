@@ -17,7 +17,7 @@ public abstract class ReportAnalyzer {
 	// call the specific analyzer for all languages and solution sets
 	public void analyzeReports() {
 		// initialize
-		Log.info("--- ReportAnalyzer for " + getToolName() + " started ---\n");
+		Log.info("--- ReportAnalyzer for " + getToolName() + " started ---");
 
 		// read the reports, analyze and remember the results
 		for (String language : LANGUAGES) {

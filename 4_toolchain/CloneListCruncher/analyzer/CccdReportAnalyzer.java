@@ -139,9 +139,8 @@ public class CccdReportAnalyzer extends ReportAnalyzer {
 		boolean isFull = false;
 
 		// generate paths (needed for methodparser)
-		String pathToFolder = SOURCEFOLDER + File.separator
-				+ solutionSet + File.separator
-				+ "src" + File.separator;
+		String pathToFolder = SOURCEFOLDER + File.separator + "c" + File.separator
+				+ solutionSet + File.separator + "src" + File.separator;
 		String pathToLeftFile =  pathToFolder + String.format("%03d", cloneLeftFileName) + ".c";
 		String pathToRightFile = pathToFolder + String.format("%03d", cloneRightFileName) + ".c";
 
@@ -194,7 +193,9 @@ public class CccdReportAnalyzer extends ReportAnalyzer {
 		Clone unifiedClone = addUnifiedCloneToTable(clone);
 
 		// remember clone also for later full/partial rating
-		rememberCloneLineNumbers(unifiedClone);
+		if (unifiedClone != null) {
+			rememberCloneLineNumbers(unifiedClone);
+		}
 
 		return unifiedClone;
 	}
