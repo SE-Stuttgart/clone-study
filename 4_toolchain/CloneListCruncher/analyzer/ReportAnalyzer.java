@@ -1,4 +1,4 @@
-package reportAnalyzer;
+package analyzer;
 
 import static control.CloneListCruncher.LANGUAGES;
 import static control.CloneListCruncher.MAXSOLUTIONSET;

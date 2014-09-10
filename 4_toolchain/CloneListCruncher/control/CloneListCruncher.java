@@ -5,8 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import analyzer.*;
 import data.*;
-import reportAnalyzer.*;
 
 public class CloneListCruncher {
 

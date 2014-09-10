@@ -3,4 +3,4 @@
  * 
  * @author ivan
  */
-package reportAnalyzer;
+package analyzer;

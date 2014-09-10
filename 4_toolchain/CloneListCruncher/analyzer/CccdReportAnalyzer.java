@@ -1,4 +1,4 @@
-package reportAnalyzer;
+package analyzer;
 import static control.CloneListCruncher.*;
 
 import java.io.BufferedInputStream;

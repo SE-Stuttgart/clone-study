@@ -1,4 +1,4 @@
-package reportAnalyzer;
+package analyzer;
 import static control.CloneListCruncher.REPORTFOLDER;
 import static control.CloneListCruncher.cloneTables;
 import static control.CloneListCruncher.sourceData;
