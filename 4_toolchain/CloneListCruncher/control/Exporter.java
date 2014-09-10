@@ -7,9 +7,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.List;
 import java.util.Locale;
-import java.util.Map;
 
 import util.Log;
 import data.Clone;
@@ -105,8 +103,12 @@ public class Exporter {
 	private void exportCloneTables() {
 		for (String tool : TOOLS) {
 			for (String language : LANGUAGES) {
+				// abort if combination has to be excluded
+				if (tool.equals("cccd") && language.equals("java")) {
+					continue;
+				}
 				for (int solutionSet = 1; solutionSet <= MAXSOLUTIONSET; solutionSet++) {
-
+					// export table
 					try {
 						exportSingleCloneTable("clone-analysis-full.csv", tool, language, solutionSet, true);
 						exportSingleCloneTable("clone-analysis-part.csv", tool, language, solutionSet, false);
