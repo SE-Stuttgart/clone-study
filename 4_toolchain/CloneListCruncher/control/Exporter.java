@@ -139,30 +139,37 @@ public class Exporter {
 			csvRecall.write("tool;lang;solset;type;recall\n");
 
 			// write the recall values to the recall cvs-file;
-			List<String> sortedKeys = new ArrayList<String>();
-			sortedKeys.addAll(cloneTables.keySet());
-			Collections.sort(sortedKeys);
-			for (String key : sortedKeys) {
-				CloneTable ct = cloneTables.get(key);
-				for (int metricNumber = 2; metricNumber <= 4; metricNumber++) {
-					String line = key;
-					double metricValue = -1;
-					switch (metricNumber) {
-					case 2:
-						line += "12;";
-						metricValue = ct.recall12;
-						break;
-					case 3:
-						line += "123;";
-						metricValue = ct.recall123;
-						break;
-					case 4:
-						line += "1234;";
-						metricValue = ct.recall1234;
-						break;
+			for (String tool : TOOLS) {
+				for (String language : LANGUAGES) {
+					for (int solutionSet = 1; solutionSet <= MAXSOLUTIONSET; solutionSet++) {
+						for (int fullVar = 0; fullVar <= 1; fullVar++) {
+							// inner loop changes between full=false (partial) and full=true (full)
+							boolean full = (fullVar == 1);
+							// get the clonetable for this combination
+							String key = combineKeys(tool, language, solutionSet, full);
+							CloneTable ct = cloneTables.get(key);
+							for (int metricNumber = 2; metricNumber <= 4; metricNumber++) {
+								String line = key;
+								double metricValue = -1;
+								switch (metricNumber) {
+								case 2:
+									line += "12; ";
+									metricValue = ct.recall12;
+									break;
+								case 3:
+									line += "123; ";
+									metricValue = ct.recall123;
+									break;
+								case 4:
+									line += "1234; ";
+									metricValue = ct.recall1234;
+									break;
+								}
+								line += String.format(Locale.ENGLISH, "%f", metricValue) + "\n";
+								csvRecall.write(line);
+							}						
+						}
 					}
-					line += String.format(Locale.ENGLISH, "%f", metricValue) + "\n";
-					csvRecall.write(line);
 				}
 			}
 
