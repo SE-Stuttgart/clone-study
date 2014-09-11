@@ -43,10 +43,9 @@ public class ConqatReportAnalyzer extends ReportAnalyzer {
 		int cloneRightEndLine = Integer.parseInt(cloneRight.getAttribute("endLine"));
 		int cloneLeftLength = (cloneLeftEndLine - cloneLeftStartLine);
 		int cloneRightLength = (cloneRightEndLine - cloneRightStartLine);
-		// fill clone if both clone lengths are long enough
+		// full clone if both clone lengths are long enough
 		int leftLength = sourceData.getFileLength(language, solutionSet, cloneLeftFileName);
-		int rightLength = sourceData.getFileLength(language, solutionSet, cloneLeftFileName);
-		// FIXME when refactoring is finished: copy&paste error in line above (should be "right")
+		int rightLength = sourceData.getFileLength(language, solutionSet, cloneRightFileName);
 		boolean isFull = (cloneLeftLength >= leftLength - 2)
 				&& (cloneRightLength >= rightLength - 2);
 		Log.debug("cloneLeftLength/fileLeftLength = " + cloneLeftLength + "/" + leftLength);
