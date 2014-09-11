@@ -9,7 +9,7 @@ public class Clone {
 	// language can be "JAVA" or "C"
 	private String language;
 	
-	private int solutionSetNumber;
+	private int solutionSet;
 
 	// data of first (left) file in clone 
 	private int leftFile;
@@ -37,12 +37,12 @@ public class Clone {
 		this.language = language;
 	}
 
-	public int getSolutionSetNumber() {
-		return solutionSetNumber;
+	public int getSolutionSet() {
+		return solutionSet;
 	}
 
-	public void setSolutionSetNumber(int solutionSetNumber) {
-		this.solutionSetNumber = solutionSetNumber;
+	public void setSolutionSet(int solutionSet) {
+		this.solutionSet = solutionSet;
 	}
 
 	public int getLeftFile() {
@@ -116,12 +116,12 @@ public class Clone {
 	}
 	
 	// constructor
-	public Clone(String language, int solutionSetNumber, int leftCloneFileNumber, int leftCloneStartline,
+	public Clone(String language, int solutionSet, int leftCloneFileNumber, int leftCloneStartline,
 		int leftCloneEndline, int rightCloneFileNumber, int rightCloneStartline,
 		int rightCloneEndline, boolean isFull, int cloneType) {
 		
 		this.language = language;
-		this.solutionSetNumber = solutionSetNumber;
+		this.solutionSet = solutionSet;
 		this.leftFile = leftCloneFileNumber;
 		this.leftStartline = leftCloneStartline;
 		this.leftEndline = leftCloneEndline;

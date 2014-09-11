@@ -52,9 +52,10 @@ public abstract class ReportAnalyzer {
 			clone.setRightEndline(clone.getLeftEndline());
 			clone.setLeftEndline(temp);
 		}
+		
 		// get the correct clone table
 		CloneTable ct = cloneTables.get(Helper.combineKeys(getToolName(), clone.getLanguage(),
-				clone.getSolutionSetNumber(), clone.isFull()));
+				clone.getSolutionSet(), clone.isFull()));
 		// overwrite old value correctly by taking the smaller one (2&2->2; 2&3->2; 3&2->2; 3&3->3)
 		int oldType = ct.table[clone.getLeftFile()][clone.getRightFile()];
 		int newType;

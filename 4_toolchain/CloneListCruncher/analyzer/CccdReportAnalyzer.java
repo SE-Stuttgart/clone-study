@@ -74,7 +74,7 @@ public class CccdReportAnalyzer extends ReportAnalyzer {
 
 	// remember line number of that clone and add the information to the two cloneLineNumbers maps
 	private void rememberCloneLineNumbers(Clone clone) {
-		String key = getKey(clone.getSolutionSetNumber(), clone.getLeftFile(), clone.getRightFile());
+		String key = getKey(clone.getSolutionSet(), clone.getLeftFile(), clone.getRightFile());
 		// initialize sets if needed
 		if (clonedLineNumbersLeft.get(key) == null) {
 			clonedLineNumbersLeft.put(key, new HashSet<Integer>());
@@ -157,7 +157,7 @@ public class CccdReportAnalyzer extends ReportAnalyzer {
 		// search for a lower clone type in existing data (from other tools)
 		for (Clone clone : cloneList) {
 			// regard only clones within same solution set and the same file combination
-			if (solutionSet != clone.getSolutionSetNumber()
+			if (solutionSet != clone.getSolutionSet()
 					|| cloneLeftFileName != clone.getLeftFile()
 					|| cloneRightFileName != clone.getRightFile()) {
 				continue;

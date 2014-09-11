@@ -42,7 +42,7 @@ public class CloneListCruncher {
 		CloneTable.init();
 		
 		// 3. run analysis and add clone data to global clone list and clone tables
-		//conqat.analyzeReports();
+		conqat.analyzeReports();
 		//deckard.analyzeReports();
 		cccd.analyzeReports();
 		

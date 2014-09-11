@@ -25,7 +25,7 @@ public class Exporter {
 						&& (language.equalsIgnoreCase("ALL") || clone.getLanguage().equalsIgnoreCase(language))) {
 					String line = "";
 					line += clone.getLanguage().toLowerCase() + ",";
-					line += clone.getSolutionSetNumber() + ",";
+					line += clone.getSolutionSet() + ",";
 					line += clone.getLeftFile() + ",";
 					line += clone.getRightFile() + ",";
 					line += clone.getLeftStartline() + ",";
@@ -108,8 +108,8 @@ public class Exporter {
 				if (tool.equals("cccd") && language.equals("java")) {
 					continue;
 				}
+				Log.star();
 				for (int solutionSet = 1; solutionSet <= MAXSOLUTIONSET; solutionSet++) {
-					Log.star();
 					// export table
 					try {
 						exportSingleCloneTable("clone-analysis-full.csv", tool, language, solutionSet, true);
@@ -173,7 +173,7 @@ public class Exporter {
 		exportCloneLists();
 		exportCloneTables();
 		exportRecallValues();
-		Log.info("--- Exporter ended ---");
+		Log.info("\n--- Exporter ended ---");
 	}
 
 }
