@@ -143,8 +143,8 @@ public class Exporter {
 				for (String language : LANGUAGES) {
 					for (int solutionSet = 1; solutionSet <= MAXSOLUTIONSET; solutionSet++) {
 						for (int fullVar = 0; fullVar <= 1; fullVar++) {
-							// inner loop changes between full=false (partial) and full=true (full)
-							boolean full = (fullVar == 1);
+							// inner loop changes between full=true (full) and full=false (partial)
+							boolean full = (fullVar == 0);
 							// get the clonetable for this combination
 							String key = combineKeys(tool, language, solutionSet, full);
 							CloneTable ct = cloneTables.get(key);
