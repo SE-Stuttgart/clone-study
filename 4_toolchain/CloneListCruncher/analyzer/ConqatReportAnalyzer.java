@@ -1,8 +1,6 @@
 package analyzer;
 import static control.CloneListCruncher.REPORTFOLDER;
-import static control.CloneListCruncher.cloneTables;
 import static control.CloneListCruncher.sourceData;
-import static util.Helper.combineKeys;
 
 import java.io.File;
 import java.io.IOException;
@@ -21,7 +19,6 @@ import org.xml.sax.SAXException;
 
 import util.Log;
 import data.Clone;
-import data.CloneTable;
 
 /**
  * conqatReportAnalyzer
@@ -54,9 +51,6 @@ public class ConqatReportAnalyzer extends ReportAnalyzer {
 				&& (cloneRightLength >= rightLength - 2);
 		Log.debug("cloneLeftLength/fileLeftLength = " + cloneLeftLength + "/" + leftLength);
 		Log.debug("cloneRightLength/fileRightLength = " + cloneRightLength + "/" + rightLength);
-
-		// get correct clone table
-		CloneTable ct = cloneTables.get(combineKeys(tool, language, solutionSet, isFull));
 
 		// check clone type
 		String cloneLeftGap = cloneLeft.getAttribute("gaps");
