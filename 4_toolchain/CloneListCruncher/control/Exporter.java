@@ -7,6 +7,9 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 import java.util.Locale;
 
 import util.Log;
@@ -136,7 +139,10 @@ public class Exporter {
 			csvRecall.write("tool;lang;solset;type;recall\n");
 
 			// write the recall values to the recall cvs-file;
-			for (String key : cloneTables.keySet()) {
+			List<String> sortedKeys = new ArrayList<String>();
+			sortedKeys.addAll(cloneTables.keySet());
+			Collections.sort(sortedKeys);
+			for (String key : sortedKeys) {
 				CloneTable ct = cloneTables.get(key);
 				for (int metricNumber = 2; metricNumber <= 4; metricNumber++) {
 					String line = key;
