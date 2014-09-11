@@ -7,9 +7,6 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 import java.util.Locale;
 
 import util.Log;
@@ -141,6 +138,10 @@ public class Exporter {
 			// write the recall values to the recall cvs-file;
 			for (String tool : TOOLS) {
 				for (String language : LANGUAGES) {
+					// abort if combination has to be excluded
+					if (tool.equals("cccd") && language.equals("java")) {
+						continue;
+					}
 					for (int solutionSet = 1; solutionSet <= MAXSOLUTIONSET; solutionSet++) {
 						for (int fullVar = 0; fullVar <= 1; fullVar++) {
 							// inner loop changes between full=true (full) and full=false (partial)
