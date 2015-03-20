@@ -1,0 +1,64 @@
+partial
+                   data oo alg lib io
+C    1a_data_low    1   -   0   0   0
+C    1b_data_medium 2   -   1   1   0
+C    1c_data_high   3   -   2   0   0
+C    3a_algo_low    0   -   1   0   0
+C    3b_algo_medium 0   -   2   1   0
+C    3c_algo_high   0   -   3   1   0
+C    4a_lib_low     0   -   0   1   0
+C    4b_lib_medium  0   -   0   2   0
+C    4c_lib_high    0   -   3   3   3
+C    5a_io_low      0   -   0   0   1
+C    5b_io_medium   2   -   2   0   2
+C    5c_io_high     1   -   0   1   3
+C    6_extreme1     0   -   3   3   3
+Java 1a_data_low    1   1   2   1   2
+Java 1b_data_medium 2   1   2   2   2
+Java 1c_data_high   3   2   2   1   3
+Java 2a_oo_low      0   1   1   1   1
+Java 2b_oo_medium   0   2   1   1   1
+Java 2c_oo_high     1   0   3   0   2
+Java 3a_algo_low    0   0   1   1   0
+Java 3b_algo_medium 1   1   2   1   2
+Java 3c_algo_high   1   0   3   0   2
+Java 4a_lib_low     0   0   1   1   0
+Java 4b_lib_medium  2   1   2   2   2
+Java 4c_lib_high    2   1   2   3   2
+Java 5a_io_low      0   1   1   1   1
+Java 5b_io_medium   0   2   1   1   2
+Java 5c_io_high     0   2   1   2   3
+Java 6_extreme1     3   3   3   3   3
+
+
+full
+                   data oo alg lib io
+C    1a_data_low    1   -   0   0   0
+C    1b_data_medium 1   -   1   1   0
+C    1c_data_high   3   -   3   0   3
+C    3a_algo_low    0   -   1   0   0
+C    3b_algo_medium 1   -   2   0   1
+C    3c_algo_high   0   -   3   0   0
+C    4a_lib_low     0   -   0   1   0
+C    4b_lib_medium  1   -   2   2   0
+C    4c_lib_high    0   -   1   3   0
+C    5a_io_low      0   -   0   0   1
+C    5b_io_medium   1   -   0   0   2
+C    5c_io_high     1   -   0   0   3
+C    6_extreme1     3   -   3   3   3
+Java 1a_data_low    1   0   1   0   1
+Java 1b_data_medium 2   0   2   0   0
+Java 1c_data_high   3   0   3   1   0
+Java 2a_oo_low      0   1   0   0   0
+Java 2b_oo_medium   1   2   1   1   1
+Java 2c_oo_high     2   3   3   1   0
+Java 3a_algo_low    1   0   1   0   1
+Java 3b_algo_medium 0   1   2   1   2
+Java 3c_algo_high   0   0   3   1   1
+Java 4a_lib_low     0   0   0   1   1
+Java 4b_lib_medium  0   0   0   2   0
+Java 4c_lib_high    0   0   2   3   1
+Java 5a_io_low      0   0   0   1   1
+Java 5b_io_medium   0   1   2   1   2
+Java 5c_io_high     2   0   1   2   3
+Java 6_extreme1     3   3   3   1   3
